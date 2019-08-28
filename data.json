@@ -1,6 +1,6 @@
 {
       "@context": "https://www.data.govt.nz/catalog.jsonld",
-      "@id": "www.ir.govt.nz/data.json",
+      "@id": "www.ird.govt.nz/data.json",
       "@type": "dcat:Catalog",
       "conformsTo": "https://www.data.govt.nz/toolkit/schema",
       "dataset":[
@@ -43,7 +43,7 @@
             {
                 "title": "Registered customers by entity type",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/d/b/db702210-6d1b-4f3a-b34d-87a98d9db693/2.1-reg-cust-by-entity-type.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "16kb"
             }
         ]
@@ -87,7 +87,7 @@
             {
                 "title": "Registered customers by geographic areas",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/5/0/502bda16-efb5-486b-8214-e4b3224fd90b/reg-customers-geo-area-17-excel.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "22kb"
             }
         ]
@@ -131,7 +131,7 @@
             {
                 "title": "Active customers by entity type",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/f/5/f5b5ace1-6d2b-4917-af74-5b1816ea816c/2.3+-+Active-customers-by-ET.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "18kb"
             }
         ]
@@ -175,7 +175,7 @@
             {
                 "title": "Active customers by geographic areas",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/a/c/acf46f88-676d-4416-9ed7-a4d303de0232/active-customers-by-geographic-area-08-17.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "20kb"
             }
         ]
@@ -219,7 +219,7 @@
             {
                 "title": "Registered customers by group",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/b/3/b38c49df-e055-4195-a325-317d61fa256f/registered-customer-group.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "15kb"
             }
         ]
@@ -259,7 +259,7 @@
             {
                 "title": "Use of return filing channels",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/5/5/556530ce-f945-4045-b3d2-804991ae6b17/return-filing-channels.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "33kb"
             }
         ]
@@ -299,7 +299,7 @@
             {
                 "title": "Number of customers by return types",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/d/2/d26ce924-465a-4293-a1d5-350323481443/number-of-cust-by-return-types.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "24kb"
             }
         ]
@@ -339,7 +339,7 @@
             {
                 "title": "Returns filed",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/d/5/d52bffeb-8638-480f-92e5-08ed453188d7/returns-filed.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "16kb"
             }
         ]
@@ -374,7 +374,7 @@
             {
                 "title": "Number of tax agents by geographic area",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/0/c/0cd160e2-75b7-4589-8365-2869870b1371/agents-by-location.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "20kb"
             }
         ]
@@ -452,7 +452,7 @@
             {
                 "title": "Revenue collected",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/9/b/9b027f2c-8b0a-4975-9bcf-3100a32ec58f/rev+collected.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "19kb"
             }
         ]
@@ -488,7 +488,7 @@
             {
                 "title": "Income distributions of individual customers",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/9/3/930f79b9-03e0-429c-8ffa-247655f0c490/Thousand+dollar+bands+01-16_archive.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "92kb"
             }
         ]
@@ -524,7 +524,7 @@
             {
                 "title": "Wage/salary distributions for individual customers",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/c/7/c76f4ffa-b125-4c0a-a9b7-c69243bd2003/Salary+wage+bands+2017+redo.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "82kb"
             }
         ]
@@ -568,7 +568,7 @@
             {
                 "title": "Net GST by turnover band",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/2/8/2852dd62-ea50-4684-8b98-26449f086638/gst-turnover2.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "15kb"
             }
         ]
@@ -612,7 +612,7 @@
             {
                 "title": "Number of GST filers by turnover band",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/2/4/241952ac-f435-47cf-8fe3-bcacbe372e0c/gst-filers.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "18kb"
             }
         ]
@@ -648,7 +648,7 @@
             {
                 "title": "Number of rebates claimed",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/3/7/375e6e1e-0ea6-499f-b485-d9e1f7934260/donations-rebates-no.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "13kb"
             }
         ]
@@ -683,7 +683,7 @@
             {
                 "title": "Donation Rebate Average Amount",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/c/4/c4609067-2c13-437b-a010-b441c1e67a47/donations-rebates-amounts.xlsx",
-                "format": "XLXS"
+                "format": "XLSX"
             }
         ]
     },
@@ -719,7 +719,7 @@
             {
                 "title": "Income of trusts IR6 returns",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/0/a/0a5fd785-f714-49fc-ad6e-7b1225116a8e/trust-income.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "15kb"
             }
         ]
@@ -789,7 +789,7 @@
             {
                 "title": "Working for Families Tax Credits - Average Entitlement",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/7/a/7afeb85c-0a3f-42ed-ab2d-5d0b5463ab07/6.1b+-+wfftc-average-entitlement.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "15kb"
             }
         ]
@@ -824,7 +824,7 @@
             {
                 "title": "Number of child support customers and cash collection",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/5/c/5cd21169-210b-4895-b72f-eca5a2d6bbc0/6.2-+child-support.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "15kb"
             }
         ]
@@ -874,7 +874,7 @@
             {
                 "title": "Total overdue debt",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/b/a/ba6f1502-0700-4cfa-b160-e4616baba62f/7.1+-+total-overdue-debt-excel.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "16kb"
             }
         ]
@@ -924,7 +924,7 @@
             {
                 "title": "Overdue debt by tax type",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/e/8/e86e760b-5052-4286-9d06-d3d474eca5ce/7.2+-+overdue-debt-tax-type-excel.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "19kb"
             }
         ]
@@ -974,7 +974,7 @@
             {
                 "title": "Overdue debt by debt age",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/b/f/bff9c528-5dc9-44ce-bede-43585fc1c024/7.3+-+overdue-debt-age-excel.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "38kb"
             }
         ]
@@ -1024,7 +1024,7 @@
             {
                 "title": "Overdue debt by debt value bands",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/2/c/2c2a288e-a4fc-4e9c-b9b7-d2408633e60e/7.4-+overdue-debt-value-bands-excel.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "39kb"
             }
         ]
@@ -1069,7 +1069,7 @@
             {
                 "title": "Percentage of returns filed on time",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/a/6/a65e3b8d-ea1b-4a12-9ed6-8feffbcb1704/9.2-+returns-filed-on-time-excel.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "19kb"
             }
         ]
@@ -1114,7 +1114,7 @@
             {
                 "title": "Percentage of payments made on time",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/8/f/8f4ef787-285f-49a3-aeee-8cf5d7961485/percentage-payments-on-time-17-excel.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "15kb"
             }
         ]
@@ -1149,7 +1149,7 @@
             {
                 "title": "Percentage of child support payments made by liable parents in full and on time",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/9/5/95fe07f5-e989-41cf-a848-ba048c9a478e/payments-full-on-time-liable-parents-17-excel.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "17kb"
             }
         ]
@@ -1197,7 +1197,7 @@
             {
                 "title": "Regional tax statistics 2016",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/2/0/20e0792e-d7c5-479e-9de5-bf8b281763ad/regional-tax-stats-2016.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "196kb"
             },
             {
@@ -1412,7 +1412,7 @@
             {
                 "title": "Number of tax convictions",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/a/1/a11e8cec-bf21-489a-a2d7-e76ef38592d1/11.6no-convictions.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "18kb"
             }
         ]
@@ -1449,7 +1449,7 @@
             {
                 "title": "Number of people convicted under the Tax Administration Act",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/3/c/3ca1048c-e68e-409c-a546-f16556a87725/11.7no-people-convicted.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "18kb"
             }
         ]
@@ -1535,7 +1535,7 @@
         ],
         "landingPage": "https://www.classic.ird.govt.nz/aboutir/reports/expenses/",
         "Status": "Published",
-        "temporal": "07-2018/2019",
+        "temporal": "07-2015/07-2019",
         "publisher": {
             "name": "Inland Revenue"
         },
@@ -1547,53 +1547,31 @@
             {
                 "title": "Commissioner Naomi Ferguson's expenses June 2018",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/b/7/b7ddc35f-0b64-46d7-9169-20034b2df91c/commissioners-expenses-2019-FINAL.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "69kb"
-            }
-        ]
-    },
-    {
-        "title": "Inland Revenue Commissioner's Expenses",
-        "description": "Total expenses attributed to Inland Revenue's commissioner",
-        "accrualPeriodicity": "R/P1Y",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "corporate data",
-            "financial reports  measures"
-        ],
-        "landingPage": "https://www.classic.ird.govt.nz/aboutir/reports/expenses/expenses-previous-years/",
-        "Status": "Published",
-        "temporal": "07-2015/06-2018",
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Open Data enquiry",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "distribution": [
+            },
             {
                 "title": "Commissioner Naomi Ferguson's expenses June 2017",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/d/c/dc27fd38-d7e3-4de1-b54a-2e29fcada02c/commissioners-expenses-july-2017-june-2018.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "34kb"
             },
             {
                 "title": "Commissioner Naomi Ferguson's expenses June 2016",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/2/4/241989ca-bd8f-47ad-8c1c-35c4ebf8b481/commissioners-expenses-july-2016-june-2017.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "27kb"
             },
             {
                 "title": "Commissioner Naomi Ferguson's expenses June 2015",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/b/3/b354daad-0283-44b7-9684-89a8b79e902f/commissioners-expenses-july-2015-June-2016.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "29kb"
             }
         ]
     },
     {
-        "title": "Customer Satisfaction and Perceptions survey results",
+        "title": "Customer Satisfaction and Perceptions survey quarterly results",
         "description": "Quarterly survey results for customer satisfaction and perception of Inland Revenue",
         "accrualPeriodicity": "R/P3M",
         "license": "https://creativecommons.org/licenses/by/4.0/",
@@ -1601,9 +1579,9 @@
             "corporate data",
             "customer"
         ],
-        "landingPage": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/customer-satisfaction-index-2018-2019.html",
+        "landingPage": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/",
         "Status": "Published",
-        "temporal": "07-2018/06-2019",
+        "temporal": "07-2016/06-2019",
         "publisher": {
             "name": "Inland Revenue"
         },
@@ -1613,25 +1591,61 @@
         },
         "distribution": [
             {
-                "title": "Customer Satisfaction and Perceptions survey results January to March 2019",
+                "title": "January to March 2019 results",
                 "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/customer-satisfaction-results-jan-mar-19.html",
                 "format": "HTML"
             },
             {
-                "title": "Customer Satisfaction and Perceptions survey results October to December 2018",
+                "title": "October to December 2018 results",
                 "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/customer-satisfaction-results-oct-dec-18.html",
                 "format": "HTML"
             },
-            null,
             {
-                "format": "`"
+                "title": "April to June 2018 results",
+                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-apr-jun-18.html",
+                "format": "HTML"
+            },
+            {
+                "title": "January to March 2018 results",
+                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-jan-march-18.html",
+                "format": "HTML"
+            },
+            {
+                "title": "October to December 2017 results",
+                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-oct-dec-17.html",
+                "format": "HTML"
+            },
+            {
+                "title": "July to September 2017 results",
+                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-jul-sep-17.html",
+                "format": "HTML"
+            },
+            {
+                "title": "April to June 2017 results",
+                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-april-june-17.html",
+                "format": "HTML"
+            },
+            {
+                "title": "January to March 2017 results",
+                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-jan-march-17.html",
+                "format": "HTML"
+            },
+            {
+                "title": "October to December 2016 results",
+                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-oct-dec-16.html",
+                "format": "HTML"
+            },
+            {
+                "title": "July to September 2016 results",
+                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-jul-sep-16.html",
+                "format": "HTML"
             }
         ]
     },
     {
-        "title": "Customer Satisfaction and Perceptions survey results",
-        "description": "Quarterly survey results for customer satisfaction and perception of Inland Revenue",
-        "accrualPeriodicity": "R/P3M",
+        "title": "Customer Satisfaction and Perceptions survey annual results",
+        "description": "Annual survey results for customer satisfaction and perception of Inland Revenue",
+        "accrualPeriodicity": "R/P1Y",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
             "corporate data",
@@ -1649,81 +1663,24 @@
         },
         "distribution": [
             {
-                "title": "Annual Customer Satisfaction and Perceptions survey results July 2017 to June 2018",
+                "title": "Annual results July 2017 to June 2018",
                 "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-ann-jul-17-jun-18.html",
                 "format": "HTML"
             },
             {
-                "title": "Customer Satisfaction and Perceptions survey results April to June 2018",
-                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-apr-jun-18.html",
-                "format": "HTML"
-            },
-            {
-                "title": "Customer Satisfaction and Perceptions survey results January to March 2018",
-                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-jan-march-18.html",
-                "format": "HTML"
-            },
-            {
-                "title": "Customer Satisfaction and Perceptions survey results October to December 2017",
-                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-oct-dec-17.html",
-                "format": "HTML"
-            },
-            {
-                "title": "Customer Satisfaction and Perceptions survey results July to September 2017",
-                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-jul-sep-17.html",
-                "format": "HTML"
-            }
-        ]
-    },
-    {
-        "title": "Customer Satisfaction and Perceptions survey results",
-        "description": "Quarterly survey results for customer satisfaction and perception of Inland Revenue",
-        "accrualPeriodicity": "R/P3M",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "corporate data",
-            "customer"
-        ],
-        "landingPage": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-index-2016-2017.html",
-        "Status": "Published",
-        "temporal": "07-2016/06-2017",
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Open Data enquiry",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "distribution": [
-            {
-                "title": "Annual Customer Satisfaction and Perceptions survey results July 2016 to June 2017",
+                "title": "Annual results July 2016 to June 2017",
                 "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-july-16-june-17.html",
                 "format": "HTML"
             },
             {
-                "title": "Customer Satisfaction and Perceptions survey results April to June 2017",
-                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-april-june-17.html",
-                "format": "HTML"
-            },
-            {
-                "title": "Customer Satisfaction and Perceptions survey results January to March 2017",
-                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-jan-march-17.html",
-                "format": "HTML"
-            },
-            {
-                "title": "Customer Satisfaction and Perceptions survey results October to December 2016",
-                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-oct-dec-16.html",
-                "format": "HTML"
-            },
-            {
-                "title": "Customer Satisfaction and Perceptions survey results July to September 2016",
-                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-jul-sep-16.html",
+                "title": "Annual results July 2015 to June 2016",
+                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-july-15-june-16.html",
                 "format": "HTML"
             }
         ]
     },
     {
-        "title": "Customer Satisfaction and Perceptions survey results",
+        "title": "Customer Satisfaction and Perceptions survey quarterly results 2015-16",
         "description": "Quarterly survey results for customer satisfaction and perception of Inland Revenue",
         "accrualPeriodicity": "R/P3M",
         "license": "https://creativecommons.org/licenses/by/4.0/",
@@ -1733,7 +1690,7 @@
         ],
         "landingPage": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-index-2015-2016.html",
         "Status": "Published",
-        "temporal": "07-2015/06-2016",
+        "temporal": "07-2015/04-2016",
         "publisher": {
             "name": "Inland Revenue"
         },
@@ -1743,35 +1700,30 @@
         },
         "distribution": [
             {
-                "title": "Annual Customer Satisfaction and Perceptions survey results July 2015 to June 2016",
-                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-july-15-june-16.html",
-                "format": "HTML"
-            },
-            {
-                "title": "Customer Satisfaction and Perceptions survey results April to June 2016",
+                "title": "April to June 2016 results",
                 "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-apr-june-16.html",
                 "format": "HTML"
             },
             {
-                "title": "Customer Satisfaction and Perceptions survey results January to March 2016",
+                "title": "January to March 2016 results",
                 "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-jan-march-16.html",
                 "format": "HTML"
             },
             {
-                "title": "Customer Satisfaction and Perceptions survey results October to December 2015",
+                "title": "October to December 2015 results",
                 "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-oct-dec-15.html",
                 "format": "HTML"
             },
             {
-                "title": "Customer Satisfaction and Perceptions survey results July to September 2015",
+                "title": "July to September 2015 results",
                 "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-jul-sep-15.html",
                 "format": "HTML"
             }
         ]
     },
     {
-        "title": "IDI Data Dictionary:\nIR tax data",
-        "description": "Documents the content of the\ndatasets the Inland Revenue  provides to Statistics New Zealand to use in the\nIntegrated Data Infrastructure (IDI).",
+        "title": "IDI Data Dictionary: IR tax data",
+        "description": "Documents the content of the datasets the Inland Revenue  provides to Statistics New Zealand to use in the Integrated Data Infrastructure (IDI).",
         "accrualPeriodicity": "R/P1M",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
@@ -1788,7 +1740,7 @@
         },
         "distribution": [
             {
-                "title": "IDI Data Dictionary:\nIR tax data",
+                "title": "IDI Data Dictionary: IR tax data",
                 "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/browse-categories/snapshots-of-nz/integrated-data-infrastructure/IDI%20data%20dictionaries/idi-dd-irtax-sep-15.pdf",
                 "format": "PDF"
             }
@@ -2620,7 +2572,7 @@
             {
                 "title": "Student Loan Scheme 2018 Data Tables",
                 "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0007/192886/Data-Tables-2018.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "199kb"
             }
         ]
