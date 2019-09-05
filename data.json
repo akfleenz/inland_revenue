@@ -1728,19 +1728,23 @@
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
             "customer",
-            "paye"
+            "paye",
+            "integrated data infrastructure",
+            "curfs",
+            "unit record file"
         ],
+        "issued": "2015-09-30",
         "Status": "Published",
         "publisher": {
-            "name": "Inland Revenue"
+            "name": "Stats NZ"
         },
         "contactPoint": {
-            "fn": "Open Data enquiry",
-            "hasEmail": "open.data2@ird.govt.nz"
+            "fn": "Integratred Data team",
+            "hasEmail": "access2microdata@stats.govt.nz"
         },
         "distribution": [
             {
-                "title": "IDI Data Dictionary: IR tax data",
+                "title": "IDI Data Dictionary: IR tax data. ISSN 2463-3615 (online)",
                 "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/browse-categories/snapshots-of-nz/integrated-data-infrastructure/IDI%20data%20dictionaries/idi-dd-irtax-sep-15.pdf",
                 "format": "PDF"
             }
@@ -1761,12 +1765,13 @@
         "Status": "Published",
         "temporal": "2000/2013",
         "publisher": {
-            "name": "Inland Revenue"
+            "name": "Stats NZ"
         },
         "contactPoint": {
-            "fn": "Open Data enquiry",
-            "hasEmail": "open.data2@ird.govt.nz"
+            "fn": "InfoCentre",
+            "hasEmail": "info@stats.govt.nz"
         },
+        "Notes": "Stats NZ no longer publish an information release on student loans and allowances.  See instead: Student loan scheme annual reports on the Education Counts website (https://www.educationcounts.govt.nz/publications/80898/2555)",
         "distribution": [
             {
                 "title": "Student Loans and Allowances 2013",
@@ -1775,71 +1780,11 @@
                 "size": "192kb"
             },
             {
-                "title": "Student Loans and Allowances 2013",
-                "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/StudentLoansandAllowances/HOTP13/StudentLoansandAllowances13HOTP.pdf",
-                "format": "PDF",
-                "size": "188kb"
-            }
-        ]
-    },
-    {
-        "title": "Student Loans and Allowances",
-        "description": "These releases provide information on the different characteristics of student loan borrowers, in terms of personal variables (such as sex and age), and characteristics of their loans (amount borrowed, total debt, and voluntary repayments).",
-        "accrualPeriodicity": "R/P1Y",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "student loans",
-            "payments and refunds",
-            "interest",
-            "individuals"
-        ],
-        "landingPage": "http://archive.stats.govt.nz/browse_for_stats/education_and_training/Tertiary%20education/StudentLoansandAllowances_HOTP12.aspx",
-        "Status": "Published",
-        "temporal": "2000/2012",
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Open Data enquiry",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "distribution": [
-            {
                 "title": "Student Loans and Allowances 2012",
                 "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/StudentLoansandAllowances/HOTP12/sla-2012-tables.xls",
                 "format": "XLS",
                 "size": "76kb"
             },
-            {
-                "title": "Student Loans and Allowances 2012",
-                "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/StudentLoansandAllowances/HOTP12/StudentLoansandAllowances12HOTP.pdf",
-                "format": "PDF",
-                "size": "276kb"
-            }
-        ]
-    },
-    {
-        "title": "Student Loans and Allowances",
-        "description": "These releases provide information on the different characteristics of student loan borrowers, in terms of personal variables (such as sex and age), and characteristics of their loans (amount borrowed, total debt, and voluntary repayments).",
-        "accrualPeriodicity": "R/P1Y",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "student loans",
-            "payments and refunds",
-            "interest",
-            "individuals"
-        ],
-        "landingPage": "http://archive.stats.govt.nz/browse_for_stats/education_and_training/Tertiary%20education/StudentLoansandAllowances_HOTP11.aspx",
-        "Status": "Published",
-        "temporal": "2000/2011",
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Open Data enquiry",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "distribution": [
             {
                 "title": "Student Loans and Allowances 2011",
                 "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/StudentLoansandAllowances/HOTP11/SLA%202011-tables.xls",
@@ -1847,71 +1792,11 @@
                 "size": "180kb"
             },
             {
-                "title": "Student Loans and Allowances 2011",
-                "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/StudentLoansandAllowances/HOTP11/StudentLoansandAllowances11HOTP.pdf",
-                "format": "PDF",
-                "size": "312kb"
-            }
-        ]
-    },
-    {
-        "title": "Student Loans and Allowances",
-        "description": "These releases provide information on the different characteristics of student loan borrowers, in terms of personal variables (such as sex and age), and characteristics of their loans (amount borrowed, total debt, and voluntary repayments).",
-        "accrualPeriodicity": "R/P1Y",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "student loans",
-            "payments and refunds",
-            "interest",
-            "individuals"
-        ],
-        "landingPage": "http://archive.stats.govt.nz/browse_for_stats/education_and_training/Tertiary%20education/StudentLoansandAllowances_HOTP10.aspx",
-        "Status": "Published",
-        "temporal": "2000/2010",
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Open Data enquiry",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "distribution": [
-            {
                 "title": "Student Loans and Allowances 2010",
                 "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/StudentLoansandAllowances/HOTP10/sla-2010-tables-new1.xls",
                 "format": "XLS",
                 "size": "394kb"
             },
-            {
-                "title": "Student Loans and Allowances 2010",
-                "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/StudentLoansandAllowances/HOTP10/StudentLoansandAllowances10HOTP.pdf",
-                "format": "PDF",
-                "size": "399kb"
-            }
-        ]
-    },
-    {
-        "title": "Student Loans and Allowances",
-        "description": "These releases provide information on the different characteristics of student loan borrowers, in terms of personal variables (such as sex and age), and characteristics of their loans (amount borrowed, total debt, and voluntary repayments).",
-        "accrualPeriodicity": "R/P1Y",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "student loans",
-            "payments and refunds",
-            "interest",
-            "individuals"
-        ],
-        "landingPage": "http://archive.stats.govt.nz/browse_for_stats/education_and_training/Tertiary%20education/StudentLoansandAllowances_HOTP09.aspx",
-        "Status": "Published",
-        "temporal": "2000/2009",
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Open Data enquiry",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "distribution": [
             {
                 "title": "Student Loans and Allowances 2009",
                 "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/StudentLoansandAllowances/HOTP09/Student%20Loans%20and%20Allowances%202009%20-%20Tables.xls",
@@ -1919,71 +1804,11 @@
                 "size": "430kb"
             },
             {
-                "title": "Student Loans and Allowances 2009",
-                "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/StudentLoansandAllowances/HOTP09/StudentLoansandAllowances09HOTP.pdf",
-                "format": "PDF",
-                "size": "189kb"
-            }
-        ]
-    },
-    {
-        "title": "Student Loans and Allowances",
-        "description": "These releases provide information on the different characteristics of student loan borrowers, in terms of personal variables (such as sex and age), and characteristics of their loans (amount borrowed, total debt, and voluntary repayments).",
-        "accrualPeriodicity": "R/P1Y",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "student loans",
-            "payments and refunds",
-            "interest",
-            "individuals"
-        ],
-        "landingPage": "http://archive.stats.govt.nz/browse_for_stats/education_and_training/Tertiary%20education/StudentLoansandAllowances_HOTP08.aspx",
-        "Status": "Published",
-        "temporal": "2000/2008",
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Open Data enquiry",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "distribution": [
-            {
                 "title": "Student Loans and Allowances 2008",
                 "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/StudentLoansandAllowances/HOTP08/sla-08-Tables.xls",
                 "format": "XLS",
                 "size": "335kb"
             },
-            {
-                "title": "Student Loans and Allowances 2008",
-                "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/StudentLoansandAllowances/HOTP08/StudentLoansandAllowances08HOTP.pdf",
-                "format": "PDF",
-                "size": "162kb"
-            }
-        ]
-    },
-    {
-        "title": "Student Loans and Allowances",
-        "description": "These releases provide information on the different characteristics of student loan borrowers, in terms of personal variables (such as sex and age), and characteristics of their loans (amount borrowed, total debt, and voluntary repayments).",
-        "accrualPeriodicity": "R/P1Y",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "student loans",
-            "payments and refunds",
-            "interest",
-            "individuals"
-        ],
-        "landingPage": "http://archive.stats.govt.nz/browse_for_stats/education_and_training/Tertiary%20education/StudentLoansandAllowances_HOTP07.aspx",
-        "Status": "Published",
-        "temporal": "2000/2007",
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Open Data enquiry",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "distribution": [
             {
                 "title": "Student Loans and Allowances 2007",
                 "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/StudentLoansandAllowances/HOTP07/Student-Loans-and-Allowances-2007-tables115-Excel-277KB.xls",
@@ -1991,71 +1816,11 @@
                 "size": "311kb"
             },
             {
-                "title": "Student Loans and Allowances 2007",
-                "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/StudentLoansandAllowances/HOTP07/studentloansandallowances2007hotp.pdf",
-                "format": "PDF",
-                "size": "232kb"
-            }
-        ]
-    },
-    {
-        "title": "Student Loans and Allowances",
-        "description": "These releases provide information on the different characteristics of student loan borrowers, in terms of personal variables (such as sex and age), and characteristics of their loans (amount borrowed, total debt, and voluntary repayments).",
-        "accrualPeriodicity": "R/P1Y",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "student loans",
-            "payments and refunds",
-            "interest",
-            "individuals"
-        ],
-        "landingPage": "http://archive.stats.govt.nz/browse_for_stats/education_and_training/Tertiary%20education/StudentLoansandAllowances_HOTP06.aspx",
-        "Status": "Published",
-        "temporal": "2000/2006",
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Open Data enquiry",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "distribution": [
-            {
                 "title": "Student Loans and Allowances 2006",
                 "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/StudentLoansandAllowances/HOTP06/sla-06-all-tables_final1.xls",
                 "format": "XLS",
                 "size": "603kb"
             },
-            {
-                "title": "Student Loans and Allowances 2006",
-                "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/StudentLoansandAllowances/HOTP06/studentloansandallowances2006hotp.pdf",
-                "format": "PDF",
-                "size": "234kb"
-            }
-        ]
-    },
-    {
-        "title": "Student Loans and Allowances",
-        "description": "These releases provide information on the different characteristics of student loan borrowers, in terms of personal variables (such as sex and age), and characteristics of their loans (amount borrowed, total debt, and voluntary repayments).",
-        "accrualPeriodicity": "R/P1Y",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "student loans",
-            "payments and refunds",
-            "interest",
-            "individuals"
-        ],
-        "landingPage": "http://archive.stats.govt.nz/browse_for_stats/education_and_training/Tertiary%20education/StudentLoansandAllowances_HOTP05.aspx",
-        "Status": "Published",
-        "temporal": "2000/2005",
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Open Data enquiry",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "distribution": [
             {
                 "title": "Student Loans and Allowances 2005",
                 "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/StudentLoansandAllowances/HOTP05/s-l-a-05-all-tables.xls",
@@ -2063,82 +1828,10 @@
                 "size": "399kb"
             },
             {
-                "title": "Student Loans and Allowances - Amount borrowed 2005",
-                "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/StudentLoansandAllowances/HOTP05/Tables-101-104-Amount-Borrowed-2005.xls",
-                "format": "XLS",
-                "size": "151kb"
-            },
-            {
-                "title": "Student Loans and Allowances - Student Financial Support Including Leaving Debt 2005",
-                "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/StudentLoansandAllowances/HOTP05/Tables201204-Student-Financial-Support-Including-Leavin.xls",
-                "format": "XLS",
-                "size": "149kb"
-            },
-            {
-                "title": "Student Loans and Allowances - Student Financial Support 2005",
-                "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/StudentLoansandAllowances/HOTP05/Tables301304and-311-324-Student-Financial-Support-2000-20.xls",
-                "format": "XLS",
-                "size": "480kb"
-            },
-            {
-                "title": "Student Loans and Allowances - Debt and Income 2005",
-                "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/StudentLoansandAllowances/HOTP05/Tables-401-408-Debt-and-Income-1995-2005.xls",
-                "format": "XLS",
-                "size": "343kb"
-            },
-            {
-                "title": "Student Loans and Allowances - Overseas and in New Zealand 2005",
-                "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/StudentLoansandAllowances/HOTP05/Tables501-503-Overseas-and-in-New-Zealand-1998-2005.xls",
-                "format": "XLS",
-                "size": "161kb"
-            },
-            {
-                "title": "Student Loans and Allowances - Full Repayments 2005",
-                "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/StudentLoansandAllowances/HOTP05/Tables-601-602-Full-Repayments-1992-2005.xls",
-                "format": "XLS",
-                "size": "103kb"
-            },
-            {
-                "title": "Student Loans and Allowances 2005",
-                "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/StudentLoansandAllowances/HOTP05/studentloansandallowances2005hotp.pdf",
-                "format": "PDF",
-                "size": "339kb"
-            }
-        ]
-    },
-    {
-        "title": "Student Loans and Allowances",
-        "description": "These releases provide information on the different characteristics of student loan borrowers, in terms of personal variables (such as sex and age), and characteristics of their loans (amount borrowed, total debt, and voluntary repayments).",
-        "accrualPeriodicity": "R/P1Y",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "student loans",
-            "payments and refunds",
-            "interest",
-            "individuals"
-        ],
-        "landingPage": "http://archive.stats.govt.nz/browse_for_stats/education_and_training/Tertiary%20education/student-loans-and-allowances-info-releases/previous-releases.aspx",
-        "Status": "Published",
-        "temporal": "1997/2004",
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Open Data enquiry",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "distribution": [
-            {
                 "title": "Student Loans and Allowances 1997-2004",
                 "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/StudentLoansandAllowances/previous-releases/slb97-04alltables.xls",
                 "format": "XLS",
                 "size": "309kb"
-            },
-            {
-                "title": "Student Loans and Allowances 1997-2004",
-                "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/StudentLoansandAllowances/previous-releases/student-loan-borrowers-97-04-hotp.pdf",
-                "format": "PDF",
-                "size": "231kb"
             }
         ]
     },
@@ -2757,11 +2450,13 @@
         "accrualPeriodicity": "R/P1Y",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
-            "corporate data"
+            "corporate data",
+            "annual report",
+            "financial reports and measures"
         ],
-        "landingPage": "National Library of New Zealand website",
+        "landingPage": "http://natlib-primo.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?mode=Basic&vid=NLNZ&vl(freeText0)=2230-6013&fn=search&tab=catalogue&",
         "Status": "Published",
-        "temporal": "07-2006/06-2018",
+        "temporal": "07-2004/06-2018",
         "publisher": {
             "name": "Inland Revenue"
         },
@@ -2772,6 +2467,7 @@
         "distribution": [
             {
                 "title": "Annual Report New Zealand Inland Revenue",
+                "downloadURL": "http://natlib-primo.hosted.exlibrisgroup.com/primo_library/libweb/action/display.do?tabs=viewOnlineTab&ct=display&fn=search&doc=dedupmrg1136221673&indx=1&recIds=dedupmrg1136221673&recIdxs=0&elementId=0&renderMode=poppedOut&displayMode=full&frbrVersion=&vid=NLNZ&mode=Basic&tab=catalogue&vl(55035061UI0)=lsr33&dscnt=0&vl(freeText0)=2230-6013&scp.scps=scope%3A%28NLNZ_ALMA%29&vl(111042389UI1)=all_items&dstmp=1534281740122",
                 "format": "PDF"
             }
         ]
