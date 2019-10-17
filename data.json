@@ -28,6 +28,9 @@
         "Status": "Published",
         "temporal": "03-2008/03-2017",
         "theme": "Customer",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -70,6 +73,9 @@
         "Status": "Published",
         "temporal": "03-2008/03-2017",
         "theme": "Customer",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -112,6 +118,9 @@
         "Status": "Published",
         "temporal": "03-2008/03-2017",
         "theme": "Customer",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -154,6 +163,9 @@
         "Status": "Published",
         "temporal": "03-2008/03-2017",
         "theme": "Customer",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -196,6 +208,9 @@
         "Status": "Published",
         "temporal": "03-2008/03-2017",
         "theme": "Customer",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -234,6 +249,9 @@
         "Status": "Published",
         "temporal": "03-2007/03-2016",
         "theme": "Income Tax, Goods and Services Tax, Fringe Benefit Tax, PAYE",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -272,6 +290,9 @@
         "Status": "Published",
         "temporal": "03-2007/03-2017",
         "theme": "Income Tax, Goods and Services Tax, Fringe Benefit Tax, PAYE",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -310,6 +331,9 @@
         "Status": "Published",
         "temporal": "03-2007/03-2017",
         "theme": "Income Tax, Goods and Services Tax, Fringe Benefit Tax, PAYE",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -343,6 +367,9 @@
         "Status": "Published",
         "temporal": "03-2008/03-2017",
         "theme": "Customer",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -377,6 +404,9 @@
         "Status": "Published",
         "temporal": "03-2008/03-2017",
         "theme": "Customer",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -417,6 +447,9 @@
         "Status": "Published",
         "temporal": "06-2008/06-2017",
         "theme": "Income Tax, Goods and Services Tax, Fringe Benefit Tax, Withholding Tax, Imputation taxes",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -451,6 +484,9 @@
         "Status": "Published",
         "temporal": "03-2001/03-2016",
         "theme": "Income Tax, PAYE",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -485,6 +521,9 @@
         "Status": "Published",
         "temporal": "03-2001/03-2016",
         "theme": "Income Tax, PAYE",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -527,6 +566,9 @@
         "Status": "Published",
         "temporal": "03-2007/03-2016",
         "theme": "Goods & Services Tax",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -569,6 +611,9 @@
         "Status": "Published",
         "temporal": "03-2007/03-2016",
         "theme": "Goods & Services Tax",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -603,6 +648,9 @@
         "Status": "Published",
         "temporal": "03-2007/03-2016",
         "theme": "Tax Credit, Subsidy and Grant",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -637,6 +685,9 @@
         "Status": "Published",
         "temporal": "03-2007/03-2016",
         "theme": "Tax Credit, Subsidy and Grant",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -670,6 +721,9 @@
         "Status": "Published",
         "temporal": "03-2007/03-2016",
         "theme": "Income Tax",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -703,6 +757,9 @@
         "Status": "Published",
         "temporal": "03-2007/03-2016",
         "theme": "Working for Families Tax Credits",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -736,6 +793,9 @@
         "Status": "Published",
         "temporal": "03-2007/03-2016",
         "theme": "Working for Families Tax Credits",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -769,6 +829,9 @@
         "Status": "Published",
         "temporal": "03-2008/03-2017",
         "theme": "Child Support",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -817,6 +880,9 @@
         "Status": "Published",
         "temporal": "06-2008/06-2017",
         "theme": "PAYE, Income Tax, Withholding Tax, Child Support, Student Loans, Goods and Services Tax, Duties, Fringe Benefit Tax",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -865,6 +931,9 @@
         "Status": "Published",
         "temporal": "03-2008/03-2017",
         "theme": "PAYE, Income Tax, Withholding Tax, Child Support, Student Loans, Goods and Services Tax, Duties, Fringe Benefit Tax",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -913,6 +982,9 @@
         "Status": "Published",
         "temporal": "06-2008/06-2017",
         "theme": "PAYE, Income Tax, Withholding Tax, Child Support, Student Loans, Goods and Services Tax, Duties, Fringe Benefit Tax",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -961,6 +1033,9 @@
         "Status": "Published",
         "temporal": "06-2008/06-2017",
         "theme": "PAYE, Income Tax, Withholding Tax, Child Support, Student Loans, Goods and Services Tax, Duties, Fringe Benefit Tax",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -1004,6 +1079,9 @@
         "Status": "Published",
         "temporal": "03-2007/03-2016",
         "theme": "Goods & Services Tax, PAYE, Income Tax",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -1047,6 +1125,9 @@
         "Status": "Published",
         "temporal": "03-2007/03-2016",
         "theme": "Goods & Services Tax, PAYE, Income Tax",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -1080,6 +1161,9 @@
         "Status": "Published",
         "temporal": "03-2008/03-2017",
         "theme": "Child Support",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -1132,6 +1216,9 @@
         "Status": "Published",
         "temporal": "04-2015/03-2016",
         "theme": "PAYE, Goods & Services Tax, Income Tax, Imputation Taxes, Withholding Tax, Child Support, Working for Families Tax Credits, Student Loans, Fringe Benefit Tax, Customer",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -1190,6 +1277,9 @@
         "Status": "Published",
         "temporal": "04-2015/03-2016",
         "theme": "PAYE, Goods & Services Tax, Income Tax, Imputation Taxes, Withholding Tax, Child Support, Working for Families Tax Credits, Student Loans, Fringe Benefit Tax, Customer",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -1239,6 +1329,9 @@
         "Status": "Published",
         "temporal": "04-2015/03-2016",
         "theme": "PAYE, Goods & Services Tax, Income Tax, Imputation Taxes, Withholding Tax, Child Support, Working for Families Tax Credits, Student Loans, Fringe Benefit Tax, Customer",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -1292,6 +1385,9 @@
         "Status": "Published",
         "temporal": "04-2015/03-2016",
         "theme": "PAYE, Goods & Services Tax, Income Tax, Imputation Taxes, Withholding Tax, Child Support, Working for Families Tax Credits, Student Loans, Fringe Benefit Tax, Customer",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -1341,6 +1437,9 @@
         "Status": "Published",
         "temporal": "04-2015/03-2016",
         "theme": "PAYE, Goods & Services Tax, Income Tax, Imputation Taxes, Withholding Tax, Child Support, Working for Families Tax Credits, Student Loans, Fringe Benefit Tax, Customer",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -1393,6 +1492,9 @@
         "Status": "Published",
         "temporal": "04-2015/03-2016",
         "theme": "PAYE, Goods & Services Tax, Income Tax, Imputation Taxes, Withholding Tax, Child Support, Working for Families Tax Credits, Student Loans, Fringe Benefit Tax, Customer",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -1446,6 +1548,9 @@
         "Status": "Published",
         "temporal": "04-2015/03-2016",
         "theme": "PAYE, Goods & Services Tax, Income Tax, Imputation Taxes, Withholding Tax, Child Support, Working for Families Tax Credits, Student Loans, Fringe Benefit Tax, Customer",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -1495,6 +1600,9 @@
         "Status": "Published",
         "temporal": "04-2015/03-2016",
         "theme": "PAYE, Goods & Services Tax, Income Tax, Imputation Taxes, Withholding Tax, Child Support, Working for Families Tax Credits, Student Loans, Fringe Benefit Tax, Customer",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -1535,6 +1643,9 @@
         "Status": "Published",
         "temporal": "03-2008/03-2017",
         "theme": "Audit",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -1577,6 +1688,9 @@
         "Status": "Published",
         "temporal": "06-2007/06-2016",
         "theme": "Audit",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -1619,6 +1733,9 @@
         "Status": "Published",
         "temporal": "06-2009/06-2017",
         "theme": "Audit",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -1654,6 +1771,9 @@
         "Status": "Published",
         "temporal": "03-2007/03-2016",
         "theme": "Audit",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -1689,6 +1809,9 @@
         "Status": "Published",
         "temporal": "03-2007/03-2016",
         "theme": "Audit",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -1729,6 +1852,9 @@
         "Status": "Published",
         "temporal": "06-2015/06-2017",
         "theme": "Customer",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -1757,6 +1883,9 @@
         "Status": "Published",
         "temporal": "06-2013/06-2015",
         "theme": "Income Tax",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -1787,6 +1916,9 @@
         "Status": "Published",
         "temporal": "07-2018/06-2019",
         "theme": "Corporate Data, Financial reports & measures",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -1813,6 +1945,9 @@
         "Status": "Published",
         "temporal": "07-2015/06-2018",
         "theme": "Corporate Data, Financial reports & measures",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -1851,6 +1986,9 @@
         "Status": "Published",
         "temporal": "07-2018/06-2019",
         "theme": "Corporate Data, Customer",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -1884,6 +2022,9 @@
         "landingPage": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-index-2017-2018.html",
         "Status": "Published",
         "temporal": "07-2017/06-2018",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -1928,6 +2069,9 @@
         "landingPage": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-index-2016-2017.html",
         "Status": "Published",
         "temporal": "07-2016/06-2017",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -1972,6 +2116,9 @@
         "landingPage": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-index-2015-2016.html",
         "Status": "Published",
         "temporal": "07-2015/06-2016",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2021,6 +2168,9 @@
         "Status": "Published",
         "temporal": "04-1999/09-2015",
         "theme": "Customer, PAYE",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2047,6 +2197,9 @@
         "landingPage": "https://www.kiwisaver.govt.nz/statistics/annual/",
         "Status": "Published",
         "temporal": "03-2009/03-2018",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2073,6 +2226,9 @@
         "landingPage": "https://www.kiwisaver.govt.nz/statistics/monthly/",
         "Status": "Published",
         "temporal": "07-2018/07-2019",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2099,6 +2255,9 @@
         "landingPage": "https://www.educationcounts.govt.nz/publications/tertiary_education/annual/student-loan-scheme-annual-report-2018",
         "Status": "Published",
         "temporal": "01-2000/12-2018",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2125,6 +2284,9 @@
         "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/student-loan-scheme-annual-report-2016",
         "Status": "Published",
         "temporal": "01-2000/12-2016",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2151,6 +2313,9 @@
         "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/student-loan-scheme-annual-report-2015",
         "Status": "Published",
         "temporal": "01-2000/12-2015",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2177,6 +2342,9 @@
         "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/student-loan-scheme-annual-report-2014",
         "Status": "Published",
         "temporal": "01-2000/12-2014",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2203,6 +2371,9 @@
         "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/student-loan-scheme-annual-report-2013",
         "Status": "Published",
         "temporal": "01-2000/12-2013",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2229,6 +2400,9 @@
         "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/114630",
         "Status": "Published",
         "temporal": "01-2000/12-2012",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2255,6 +2429,9 @@
         "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/student-loan-scheme-annual-report-2011",
         "Status": "Published",
         "temporal": "01-2000/12-2011",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2281,6 +2458,9 @@
         "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/58406/2",
         "Status": "Published",
         "temporal": "01-2000/12-2009",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2307,6 +2487,9 @@
         "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/33499/2",
         "Status": "Published",
         "temporal": "01-1994/12-2008",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2333,6 +2516,9 @@
         "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/17229",
         "Status": "Published",
         "temporal": "01-1993/12-2007",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2359,6 +2545,9 @@
         "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/5651",
         "Status": "Published",
         "temporal": "01-2000/12-2006",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2386,6 +2575,9 @@
         "Status": "Published",
         "temporal": "01-2001/12-2018/19",
         "theme": "Income distribution of customers",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2413,6 +2605,9 @@
         "Status": "Published",
         "temporal": "01-2001/12-2018/19",
         "theme": "Wage/salary distributions for customers",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2440,6 +2635,9 @@
         "Status": "Published",
         "temporal": "01-2007/12-2019",
         "theme": "Net GST by turnover band",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2466,6 +2664,9 @@
         "Status": "Published",
         "temporal": "01-2007/03-2019",
         "theme": "Number of GST filers by turnover band 2007 to 2019",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2493,6 +2694,9 @@
         "Status": "Published",
         "temporal": "01-2004/12-2018",
         "theme": "Number of donations tax credit claimed 2004 to 2018b",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2521,6 +2725,9 @@
         "Status": "Published",
         "temporal": "01-2004/12-2018",
         "theme": "Average donations tax credit claimed per claimant 2004 to 2018",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2549,6 +2756,9 @@
         "Status": "Published",
         "temporal": "01-2004/12-2018",
         "theme": "Tax credits claimed through \"payroll giving\" via employers 2011 to 2019 ",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2576,6 +2786,9 @@
         "Status": "Published",
         "temporal": "01-2001/12-2018",
         "theme": "Income of trusts IR6 returns 2001 to 2018",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2603,6 +2816,9 @@
         "Status": "Published",
         "temporal": "01-2001/12-2018",
         "theme": "Social Policy",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2629,6 +2845,9 @@
         "Status": "Published",
         "temporal": "01-2001/12-2018/19",
         "theme": "Social Policy",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2657,6 +2876,9 @@
         "Status": "Published",
         "temporal": "06-2010/06-2019",
         "theme": "Social Policy",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2685,6 +2907,9 @@
         "Status": "Published",
         "temporal": "2010/06-06-2019",
         "theme": "Social Policy",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2712,6 +2937,9 @@
         "Status": "Published",
         "temporal": "2010/06-06-2019",
         "theme": "Social Policy",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2738,6 +2966,9 @@
         "Status": "Published",
         "temporal": "2010/06-06-2019",
         "theme": "Social Policy",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2764,6 +2995,9 @@
         "Status": "Published",
         "temporal": "2010/06-06-2019",
         "theme": "Social Policy",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2788,6 +3022,9 @@
         "Status": "Published",
         "temporal": "2010/06-06-2019",
         "theme": "Social Policy",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2814,6 +3051,9 @@
         "Status": "Published",
         "temporal": "2010/06-06-2019",
         "theme": "Social Policy",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2839,6 +3079,9 @@
         "Status": "Published",
         "temporal": "2010/06-06-2019",
         "theme": "Social Policy",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2866,6 +3109,9 @@
         "Status": "Published",
         "temporal": "2010/06-06-2019",
         "theme": "Social Policy",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2894,6 +3140,9 @@
         "Status": "Published",
         "temporal": "2010/06-06-2019",
         "theme": "Social Policy",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2920,6 +3169,9 @@
         "Status": "Published",
         "temporal": "2010/06-06-2019",
         "theme": "Social Policy",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2947,6 +3199,9 @@
         "Status": "Published",
         "temporal": "2010/06-06-2019",
         "theme": "Social Policy",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2974,6 +3229,9 @@
         "Status": "Published",
         "temporal": "2010/06-06-2019",
         "theme": "Social Policy",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -2999,6 +3257,9 @@
         "Status": "Published",
         "temporal": "2010/06-06-2019",
         "theme": "Social Policy",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
@@ -3026,6 +3287,9 @@
         "Status": "Published",
         "temporal": "2010/06-06-2019",
         "theme": "Social Policy",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
         "contactPoint": {
             "hasEmail": "open.data2@ird.govt.nz"
         },
