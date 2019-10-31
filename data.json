@@ -1,11 +1,10 @@
 {
       "@context": "https://www.data.govt.nz/catalog.jsonld",
-      "@id": "https://www.ird.govt.nz//data.json",
+      "@id": "www.ird.govt.nz//data.json",
       "@type": "dcat:Catalog",
       "conformsTo": "https://www.data.govt.nz/toolkit/schema",
       "dataset":[
     {
-        "Agency Name": "Inland Revenue",
         "title": "Registered customers by entity type",
         "description": "Includes all customers registered with Inland Revenue, either individuals or entities.",
         "accrualPeriodicity": "R/P1Y",
@@ -51,7 +50,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Registered customers by geographic areas",
         "description": "Includes all customers registered with Inland Revenue, either individuals or entities. Geographic area is determined by proximity to district office.",
         "accrualPeriodicity": "R/P1Y",
@@ -72,7 +70,6 @@
         ],
         "landingPage": "https://www.ird.govt.nz/aboutir/external-stats/customers/reg-by-geo-area/",
         "Status": "Published",
-        "temporal": "03-2008/03-2017",
         "theme": "Customer",
         "publisher": {
             "name": "Inland Revenue"
@@ -97,7 +94,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Active customers by entity type",
         "description": "Shows the number of active customers grouped by entity type.",
         "accrualPeriodicity": "R/P1Y",
@@ -143,7 +139,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Active customers by geographic areas",
         "description": "Shows the number of active customers by geographic area. Area is defined through proximity to district office.",
         "accrualPeriodicity": "R/P1Y",
@@ -189,7 +184,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Registered customers by group",
         "description": "Registered customer groups shown here are, non-profit organisations, large enterprises, individuals and small and medium enterprises.",
         "accrualPeriodicity": "R/P1Y",
@@ -235,7 +229,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Use of return filing channels",
         "description": "Describes the use of the three core channels used for filing tax data (eFiling,  online filing using myIR secure login services or paper based filing)",
         "accrualPeriodicity": "R/P1Y",
@@ -277,7 +270,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Number of customers by return types",
         "description": "The data includes customers who filed tax returns for a specific tax year regardless of when their return was actually filed.",
         "accrualPeriodicity": "R/P1Y",
@@ -319,7 +311,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Returns filed",
         "description": "The number of returns filed and processed during the tax year regardless of their return period.",
         "accrualPeriodicity": "R/P1Y",
@@ -361,7 +352,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Number of tax agents by geographic area",
         "description": "The number of tax agents in a given geographic loction. A tax agent is a person who prepares the annual returns of income for ten or more taxpayers.",
         "accrualPeriodicity": "R/P1Y",
@@ -398,7 +388,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Number of clients of tax agents by geographic area",
         "description": "List of the number of clients of tax agents by geographic area. Area defined by proximity to district office.",
         "accrualPeriodicity": "R/P1Y",
@@ -430,7 +419,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Revenue collected",
         "description": "Revenue collected on an acruals basis between 2008 and 2017 by Inland Revenue.",
         "accrualPeriodicity": "R/P1Y",
@@ -480,7 +468,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Income distributions of individual customers",
         "description": "Estimates of the number of individuals in tax bands & aggregate taxable income and income tax for people in each income band. The income and tax information is derived from IR3 tax returns, personal tax summaries, and employer PAYE information.",
         "accrualPeriodicity": "R/P1Y",
@@ -518,7 +505,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Wage/salary distributions for individual customers",
         "description": "Wage/salary income, includes gross earnings received from any employer, that PAYE was deducted from. Earnings that are excluded from this are: NZ Super, Taxable welfare benefits, student allowances, earnings-related ACC payments and shareholder-employee salaries.",
         "accrualPeriodicity": "R/P1Y",
@@ -556,7 +542,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Net GST by turnover band",
         "description": "Net total GST by turnover band. The following GST data is based on information from GST returns and is different from the accrual data presented in the \"Tax revenue\" section.",
         "accrualPeriodicity": "R/P1Y",
@@ -602,7 +587,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Number of GST filers by turnover band",
         "description": "The number of GST filers grouped by turnover band. The GST data only includes GST collected or refunded by Inland Revenue. GST collected on imports by the New Zealand Customs Service is not included.",
         "accrualPeriodicity": "R/P1Y",
@@ -648,7 +632,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Income of trusts IR6 returns",
         "description": "The total income of trusts that allocated beneficiary or trustee income. This data was extracted on 25 September 2017. All data is subject to further updates, but the data for 2016 in particular is incomplete.",
         "accrualPeriodicity": "R/P1Y",
@@ -687,7 +670,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Working for Families Tax Credits - number of families",
         "description": "Working for Families Tax Credits is a collective term for a number of tax credits paid to families with dependent children. Data set includes the number of families involved. The data is based on March year entitlements, assessed on tax returns and supplemented with the payments data from Work and Income recorded on their EMS schedule. (This data is considered incomplete until 31/03/18). Types of Working for Families Tax Credits included are Family Tax Credit, In-work tax credit, Minimum family tax credit, Parental tax credit.",
         "accrualPeriodicity": "R/P1Y",
@@ -724,7 +706,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Working for Families Tax Credits - Average Entitlement",
         "description": "Working for Families Tax Credits is a collective term for a number of tax credits paid to families with dependent children. Data set includes the average entitlement amount. The data is based on March year entitlements assessed on tax returns and supplemented with the payments data from Work and Income recorded on their EMS schedule. (data considered incomplete until 31/03/18)",
         "accrualPeriodicity": "R/P1Y",
@@ -761,7 +742,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Number of child support customers and cash collection",
         "description": "The number of customers claiming child support per annum.",
         "accrualPeriodicity": "R/P1Y",
@@ -798,7 +778,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Total overdue debt",
         "description": "The total overdue tax debt, the overdue child support debt, the number of customers in debt, the number of debt cases, and the annual debt dynamics for the financial years 2008 to 2017",
         "accrualPeriodicity": "R/P1Y",
@@ -850,7 +829,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Overdue debt by tax type",
         "description": "The structure of the total overdue debt for various different tax types for the financial years from 2008 to 2017. (child support debt, student loan debt, tax debt, working for families tax credits debt)",
         "accrualPeriodicity": "R/P1Y",
@@ -902,7 +880,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Overdue debt by debt age",
         "description": "The dynamics of overdue debt case age from the 2008 to 2017 financial years. It covers both overdue tax debt and overdue child support debt. The debt age structure is presented both for dollar values and debt cases. The age of each debt case is weighted based on weighted overdue debt case age.",
         "accrualPeriodicity": "R/P1Y",
@@ -954,7 +931,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Overdue debt by debt value bands",
         "description": "The composition of overdue tax debt and overdue child support debt by dollar value bands. The Analysis is presented for both the value of debt and the proportion of debt cases.",
         "accrualPeriodicity": "R/P1Y",
@@ -1006,7 +982,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Percentage of returns filed on time",
         "description": "The ratio of returns filed on time to the total number of filing per tax year. The ratio is presented separately for tax types and customer groups.",
         "accrualPeriodicity": "R/P1Y",
@@ -1053,7 +1028,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Percentage of payments made on time",
         "description": "The percentage of on time payments for the major tax types.",
         "accrualPeriodicity": "R/P1Y",
@@ -1100,7 +1074,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Percentage of child support payments made by liable parents in full and on time",
         "description": "The percentage of payments made by liable parents in full and on time.",
         "accrualPeriodicity": "R/P1Y",
@@ -1137,7 +1110,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Regional tax statistics 2016",
         "description": "Included are categories for individuals and non-individual entities. The tables present the data as percentages of appropriate columns in the \"Customers\" table, Regional tax statistics, 'all customers', 'values', 'individuals', 'business individuals', 'non-business individuals', 'entities', 'businesses'",
         "accrualPeriodicity": "R/P1Y",
@@ -1187,7 +1159,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "All Customers",
         "description": "A regional break-down for different customer categories, such as \"registered customers\", \"individuals\", and \"individuals aged 16 or over\".",
         "accrualPeriodicity": "R/P1Y",
@@ -1249,7 +1220,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Values",
         "description": "regional break-downs for variables such as overall sales and income and debt values, broken down by tax type",
         "accrualPeriodicity": "R/P1Y",
@@ -1302,7 +1272,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Individuals",
         "description": "Employment statistics relating to individuals based on region.",
         "accrualPeriodicity": "R/P1Y",
@@ -1359,7 +1328,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Business individuals",
         "description": "General Statistics relating to business operations based on region.",
         "accrualPeriodicity": "R/P1Y",
@@ -1412,7 +1380,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Non-business individuals",
         "description": "General Statistics relating to non-business operations based on region.",
         "accrualPeriodicity": "R/P1Y",
@@ -1468,7 +1435,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Entities",
         "description": "General statistics relating to entity types based on region.",
         "accrualPeriodicity": "R/P1Y",
@@ -1525,7 +1491,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Business",
         "description": "General Statistics relating to business types based on region.",
         "accrualPeriodicity": "R/P1Y",
@@ -1578,7 +1543,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Outcome of cases decided by Disputes Review Unit",
         "description": "The outcomes of adjudication cases decided by the Disputes Review Unit. All cases are split into five categories depending on the degree to which the position of the Commissioner of Inland Revenue (CIR) was upheld.",
         "accrualPeriodicity": "R/P1Y",
@@ -1628,7 +1592,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Shortfall penalty impositions",
         "description": "The number and value of shortfall penalties in total and by category. A shortfall penalty (SFP) is one imposed as a percentage of a tax shortfall (a deficit or understatement of tax), resulting from certain actions on the part of a taxpayer.",
         "accrualPeriodicity": "R/P1Y",
@@ -1674,7 +1637,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Binding rulings",
         "description": "The number of draft rulings issued that are counted under the timeliness measures and the average time to complete those draft rulings.",
         "accrualPeriodicity": "R/P1Y",
@@ -1720,7 +1682,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Number of tax convictions",
         "description": "The total number of tax convictions under the Tax Administration Act 1994 in each calendar year.",
         "accrualPeriodicity": "R/P1Y",
@@ -1759,7 +1720,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Number of people convicted under the Tax Administration Act",
         "description": "The number of people convicted under the Tax Administration Act 1994 in each calendar year. A person may have more than one prosecution in each year.",
         "accrualPeriodicity": "R/P1Y",
@@ -1798,7 +1758,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "IRD number applications",
         "description": "This report provides information around IRD number applications by individuals and non-individuals. It includes information around the residency status of applicants and their reasons for applying (If this is for the purpose of purchasing property).",
         "accrualPeriodicity": "R/P1Y",
@@ -1835,7 +1794,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Unpaid Taxes due to Small Business Liquidations",
         "description": "Total amount of unpaid taxes due to small business liquidations.",
         "accrualPeriodicity": "R/P1Y",
@@ -1872,7 +1830,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Inland Revenue Commissioner's Expenses",
         "description": "Total expenses attributed to Inland Revenue's commissioner",
         "accrualPeriodicity": "R/P1Y",
@@ -1902,7 +1859,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Inland Revenue Commissioner's Expenses",
         "description": "Total expenses attributed to Inland Revenue's commissioner",
         "accrualPeriodicity": "R/P1Y",
@@ -1944,7 +1900,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Customer Satisfaction and Perceptions survey results 2018-19",
         "description": "Quarterly survey results for customer satisfaction and perception of Inland Revenue",
         "accrualPeriodicity": "R/P3M",
@@ -1987,7 +1942,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Customer Satisfaction and Perceptions survey results 2017-18",
         "description": "Survey results for customer satisfaction and perception of Inland Revenue",
         "accrualPeriodicity": "R/P3M",
@@ -2036,7 +1990,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Customer Satisfaction and Perceptions survey results 2016-17",
         "description": "Survey results for customer satisfaction and perception of Inland Revenue",
         "accrualPeriodicity": "R/P3M",
@@ -2085,7 +2038,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Customer Satisfaction and Perceptions survey results 2015-16",
         "description": "Survey results for customer satisfaction and perception of Inland Revenue",
         "accrualPeriodicity": "R/P3M",
@@ -2134,9 +2086,8 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "IDI Data Dictionary:\nIR tax data",
-        "description": "Documents the content of the datasets the Inland Revenue  provides to Statistics New Zealand to use in the Integrated Data Infrastructure (IDI).",
+        "description": "Documents the content of the datasets the Inland Revenue provides to Statistics New Zealand to use in the Integrated Data Infrastructure (IDI).",
         "accrualPeriodicity": "R/P1Y",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
@@ -2167,7 +2118,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "KiwiSaver statistics by year",
         "description": "The data presented in this section shows selected KiwiSaver statistics for previous financial years.\t\t\t\t\t\t\t\t",
         "accrualPeriodicity": "R/P1Y",
@@ -2197,7 +2147,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "KiwiSaver monthly statistics",
         "description": "The data presented in this section shows selected KiwiSaver statistics for the current financial year.",
         "accrualPeriodicity": "R/P1M",
@@ -2227,7 +2176,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Student Loan Scheme 2018 Data Tables",
         "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
         "accrualPeriodicity": "R/P1Y",
@@ -2257,7 +2205,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Student Loan Scheme 2016 Data Tables",
         "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
         "accrualPeriodicity": "R/P1Y",
@@ -2287,7 +2234,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Student Loan Scheme 2015 Data Tables",
         "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
         "accrualPeriodicity": "R/P1Y",
@@ -2317,7 +2263,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Student Loan Scheme 2014 Data Tables",
         "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
         "accrualPeriodicity": "R/P1Y",
@@ -2347,7 +2292,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Student Loan Scheme 2013 Data Tables",
         "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
         "accrualPeriodicity": "R/P1Y",
@@ -2377,7 +2321,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Student Loan Scheme 2012 Data Tables",
         "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
         "accrualPeriodicity": "R/P1Y",
@@ -2407,7 +2350,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Student Loan Scheme 2011 Data Tables",
         "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
         "accrualPeriodicity": "R/P1Y",
@@ -2437,7 +2379,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Student Loan Scheme 2009 Data Tables",
         "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
         "accrualPeriodicity": "R/P1Y",
@@ -2467,7 +2408,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Student Loan Scheme 2008 Data Tables",
         "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
         "accrualPeriodicity": "R/P1Y",
@@ -2497,7 +2437,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Student Loan Scheme 2007 Data Tables",
         "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
         "accrualPeriodicity": "R/P1Y",
@@ -2527,7 +2466,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Student Loan Scheme 2006 Data Tables",
         "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
         "accrualPeriodicity": "R/P1Y",
@@ -2557,7 +2495,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Income distributions of individual customers 2001 - 2018",
         "description": "Statistics relating to the estimates of the number of individuals in bands of taxable income up to $250,000 (2001-2009), and up to $300,000 (from 2010 onwards).",
         "accrualPeriodicity": "R/P1Y",
@@ -2588,7 +2525,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Wage/salary distributions for individual customers 2001 - 2019",
         "description": "Statistics relating to wage/salary income including any gross earnings received from any employer, from which PAYE was deducted.",
         "accrualPeriodicity": "R/P1Y",
@@ -2619,9 +2555,8 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Net GST by turnover band 2007 to 2019",
-        "description": "Statistics relating to Inland Revenue administered GST  but not including gross GST collected by the New Zealand Customs Service",
+        "description": "Statistics relating to Inland Revenue administered GST but not including gross GST collected by the New Zealand Customs Service",
         "accrualPeriodicity": "R/P1Y",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
@@ -2650,7 +2585,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Number of GST filers by turnover band 2007 to 2019",
         "description": "Statistics relating to GST returns as the sum of gross sales in the year ended 31 March.",
         "accrualPeriodicity": "R/P1Y",
@@ -2680,7 +2614,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Number of donation tax credits claimed 2004 to 2018",
         "description": "Statistics relating to the number of donations tax credit claimed 2004 to 2018",
         "accrualPeriodicity": "R/P1Y",
@@ -2717,7 +2650,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Average donations tax credit claimed per claimant 2004 to 2018",
         "description": "Statistics relating to the average donations tax credit claimed per claimant 2004 to 2018",
         "accrualPeriodicity": "R/P1Y",
@@ -2755,7 +2687,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Tax credits claimed through \"payroll giving\" via employers 2011 to 2019",
         "description": "Statistics relating to tax credits claimed through \"payroll giving\" via employers 2011 to 2019 ",
         "accrualPeriodicity": "R/P1Y",
@@ -2791,7 +2722,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Income of trusts IR6 returns 2001 to 2018",
         "description": "Statistics relating to the income of trusts IR6 returns 2001 to 2018",
         "accrualPeriodicity": "R/P1Y",
@@ -2814,7 +2744,7 @@
         },
         "distribution": [
             {
-                "title": "Income of trusts IR6 returns 2001 -  2018",
+                "title": "Income of trusts IR6 returns 2001 - 2018",
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/3/9/392fff70-3662-4619-a120-31fe12f222d5/trusts-data-july-2019.xlsx",
                 "format": "XLS",
                 "size": "51kb"
@@ -2822,7 +2752,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Working for Families Tax Credits - number of families 2001 - 2018",
         "description": "Statistics relating to the Working for Families Tax Credits - number of families 2001 to 2018",
         "accrualPeriodicity": "R/P1Y",
@@ -2853,7 +2782,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Working for Families Tax Credits - average entitlement 2001 - 2018",
         "description": "Statistics relating to the Working for Families Tax Credits - average entitlement 2001 -2018",
         "accrualPeriodicity": "R/P1Y",
@@ -2883,9 +2811,8 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "KiwiSaver members, 2010-2019",
-        "description": "Statistics relating to the number of active/provisional KiwiSaver members by enrolment method  2010-19",
+        "description": "Statistics relating to the number of active/provisional KiwiSaver members by enrolment method 2010-19",
         "accrualPeriodicity": "R/P1Y",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
@@ -2914,7 +2841,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Number of individuals opted out of KiwiSaver 2010-2019",
         "description": "Statistics relating to the number of individuals as at the end of each financial year, who have opted out of  KiwiSaver within th provisional period",
         "accrualPeriodicity": "R/P1Y",
@@ -2946,7 +2872,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Number of active or provisional KiwiSaver members at end of financial year 2010-2019",
         "description": "Statistics relating to the number of active or provisional KiwiSaver members as at the end of each financial year, by age bracket",
         "accrualPeriodicity": "R/P1Y",
@@ -2977,7 +2902,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Number of active or provisional KiwiSaver members as at the end of each financial year, by gender 2010-2019",
         "description": "Statistics relating to the number of active or provisional KiwiSaver members as at the end of each financial year, by gender",
         "accrualPeriodicity": "R/P1Y",
@@ -3007,7 +2931,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Number of active or provisional KiwiSaver members at the end of each financial year, by annual income 2010-2019",
         "description": "Statistics relating to the number of active or provisional KiwiSaver members at the end of each financial year, by annual income.",
         "accrualPeriodicity": "R/P1Y",
@@ -3038,7 +2961,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Number of active and provisional KiwiSaver members by region 2010-2019",
         "description": "Statistics showing the percentage of members in each New Zealand region as at 30 June 2019. Members without a valid NZ postcode are excluded.",
         "accrualPeriodicity": "R/P1Y",
@@ -3066,7 +2988,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Scheme Transfers 2010-2019",
         "description": "Statistics relating to the number of scheme transfers during financial year",
         "accrualPeriodicity": "R/P1Y",
@@ -3089,14 +3010,13 @@
         },
         "distribution": [
             {
-                "title": "Number, scheme transfers,  financial year",
+                "title": "Number, scheme transfers, financial year",
                 "downloadURL": "https://www.kiwisaver.govt.nz/resources/c/4/c4453c804172d32dbc34fe6fe0111a70/Annual+-+Data.xls",
                 "format": "XLS"
             }
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Scheme entry method by year 2010-2019",
         "description": "Statistics relating to the number of active or provisional KiwiSaver members at the end of each financial year,  by their current scheme entry method",
         "accrualPeriodicity": "R/P1Y",
@@ -3125,7 +3045,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Payments to scheme providers by category 2010-2019",
         "description": "Statistics relating to the annual payments to providers by category",
         "accrualPeriodicity": "R/P1Y",
@@ -3149,14 +3068,13 @@
         },
         "distribution": [
             {
-                "title": "Annual payments,  providers,  category",
+                "title": "Annual payments, providers, category",
                 "downloadURL": "https://www.kiwisaver.govt.nz/resources/c/4/c4453c804172d32dbc34fe6fe0111a70/Annual+-+Data.xls",
                 "format": "XLS"
             }
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Payments to scheme providers by source 2010-2019",
         "description": "Statistics relating to the annual payments to providers by source.",
         "accrualPeriodicity": "R/P1Y",
@@ -3188,9 +3106,8 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Number of saving suspensions by type 2010-2019",
-        "description": "Statistics relating to the annual  number of suspensions by type",
+        "description": "Statistics relating to the annual number of suspensions by type",
         "accrualPeriodicity": "R/P1Y",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
@@ -3218,7 +3135,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Funds withdrawn 2010-2019",
         "description": "Statistics relating to the number of members who made fund withdrawals each financial year for either a first home or financial hardship.",
         "accrualPeriodicity": "R/P1Y",
@@ -3242,14 +3158,13 @@
         },
         "distribution": [
             {
-                "title": "Number,  members,  fund withdrawals by year, for first home or financial hardship.",
+                "title": "Number, members, fund withdrawals by year, for first home or financial hardship.",
                 "downloadURL": "https://www.kiwisaver.govt.nz/resources/c/4/c4453c804172d32dbc34fe6fe0111a70/Annual+-+Data.xls",
                 "format": "XLS"
             }
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "KiwiSaver refunds withdrawn by reason 2010-2019",
         "description": "Statistics relating to the dollar amount of fund withdrawals each financial year for both first home and financial hardship withdrawals.",
         "accrualPeriodicity": "R/P1Y",
@@ -3280,7 +3195,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Amount of KiwiSaver funds withdrawn by reasons 2010-2019",
         "description": "Statistics on the dollar amount of fund withdrawals each financial year for both first home and financial  by hardship withdrawals",
         "accrualPeriodicity": "R/P1Y",
@@ -3309,7 +3223,6 @@
         ]
     },
     {
-        "Agency Name": "Inland Revenue",
         "title": "Number of KiwiSaver closed account 2010-2019",
         "description": "Statistics on the number of members at the end of each financial year who have closed their account and  withdrawn their savings due to retirement, permanent emigration, death or serious illness",
         "accrualPeriodicity": "R/P1Y",
