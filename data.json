@@ -384,7 +384,7 @@
             "corporate data",
             "customer"
         ],
-        "landingPage": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-index-2015-2016.html",
+        "landingPage": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-index-2015-2016.html\r",
         "Status": "Published",
         "temporal": "07-2015/06-2016",
         "theme": "Corporate Data, Customer",
@@ -397,168 +397,29 @@
         },
         "distribution": [
             {
-                "title": "July 2015 to June 2016 results",
+                "title": "Annual survey results for July 2015 - June 2016",
                 "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-july-15-june-16.html",
-                "format": "TXT"
+                "format": "HTML"
             },
             {
-                "title": "Customer Satisfaction and Perceptions survey results April to June 2016",
-                "download URL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-apr-june-16.html",
-                "format": "TXT"
+                "title": "Quarterly survey results for April - June 2016",
+                "download URL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-jan-march-16.html",
+                "format": "HTML"
             },
             {
-                "title": "Survey results from January to March 2016",
+                "title": "Quarterly survey results for January - March 2016",
                 "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-jan-march-16.html",
-                "format": "TXT"
+                "format": "HTML"
             },
             {
-                "title": "Survey results from October to December 2015",
+                "title": "Quarterly survey results for October - December 2015",
                 "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-oct-dec-15.html",
-                "format": "TXT"
+                "format": "HTML"
             },
             {
-                "title": "Survey results from July to September 2015",
+                "title": "Quarterly survey results for July - September 2015",
                 "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-jul-sep-15.html",
-                "format": "TXT"
-            }
-        ]
-    },
-    {
-        "title": "Customer Satisfaction and Perceptions survey results 2016-17",
-        "description": "Survey results for customer satisfaction and perception of Inland Revenue",
-        "accrualPeriodicity": "R/P3M",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "corporate data",
-            "customer"
-        ],
-        "landingPage": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-index-2016-2017.html",
-        "Status": "Published",
-        "temporal": "07-2016/06-2017",
-        "theme": "Corporate Data, Customer",
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Inland Revenue",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "distribution": [
-            {
-                "title": "July 2016 to June 2017 results",
-                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-july-16-june-17.html",
-                "format": "TXT"
-            },
-            {
-                "title": "Survey results from April to June 2017",
-                "download URL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-april-june-17.html",
-                "format": "TXT"
-            },
-            {
-                "title": "Survey results from January to March 2017",
-                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-jan-march-17.html",
-                "format": "TXT"
-            },
-            {
-                "title": "Survey results from October to December 2016",
-                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-oct-dec-16.html",
-                "format": "TXT"
-            },
-            {
-                "title": "Survey results from July to September 2016",
-                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-jul-sep-16.html",
-                "format": "TXT"
-            }
-        ]
-    },
-    {
-        "title": "Customer Satisfaction and Perceptions survey results 2017-18",
-        "description": "Survey results for customer satisfaction and perception of Inland Revenue",
-        "accrualPeriodicity": "R/P3M",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "corporate data",
-            "customer"
-        ],
-        "landingPage": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-index-2017-2018.html",
-        "Status": "Published",
-        "temporal": "07-2017/06-2018",
-        "theme": "Corporate Data, Customer",
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Inland Revenue",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "distribution": [
-            {
-                "title": "Annual Survey results from July 2017 to June 2018 results",
-                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-ann-jul-17-jun-18.html",
-                "format": "TXT"
-            },
-            {
-                "title": "Survey results from April to June 2018",
-                "download URL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-apr-jun-18.html",
-                "format": "TXT"
-            },
-            {
-                "title": "Survey results from January to March 2018",
-                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-jan-march-18.html",
-                "format": "TXT"
-            },
-            {
-                "title": "Survey results from October to December 2017",
-                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-oct-dec-17.html",
-                "format": "TXT"
-            },
-            {
-                "title": "Survey results from July to September 2017",
-                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-jul-sep-17.html",
-                "format": "TXT"
-            }
-        ]
-    },
-    {
-        "title": "Customer Satisfaction and Perceptions survey results 2018-19",
-        "description": "Quarterly survey results for customer satisfaction and perception of Inland Revenue",
-        "accrualPeriodicity": "R/P3M",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "corporate data",
-            "customer"
-        ],
-        "landingPage": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/customer-satisfaction-index-2018-2019.html",
-        "Status": "Published",
-        "temporal": "07-2018/06-2019",
-        "theme": "Corporate Data, Customer",
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Inland Revenue",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "distribution": [
-            {
-                "title": "Survey results from July to September 2019",
-                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/customer-satisfaction-results-july-sept-19.html",
-                "format": "TXT"
-            },
-            {
-                "title": "Survey results from April to June 2019",
-                "download URL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/customer-satisfaction-results-apri-jun-19.html",
-                "format": "TXT"
-            },
-            {
-                "title": "Survey results from January to March 2019",
-                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/customer-satisfaction-results-jan-mar-19.html",
-                "format": "TXT"
-            },
-            {
-                "title": "Survey results from October to December 2019",
-                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/customer-satisfaction-results-oct-dec-18.html",
-                "format": "TXT"
+                "format": "HTML"
             }
         ]
     },
@@ -874,7 +735,7 @@
     },
     {
         "title": "Inland Revenue Commissioner's Expenses",
-        "description": "Total expenses attributed to Inland Revenue's commissioner",
+        "description": "Total expenses attributed to Inland Revenue's commissioner (pre-2018)",
         "accrualPeriodicity": "R/P1Y",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
