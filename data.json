@@ -399,27 +399,27 @@
             {
                 "title": "July 2015 to June 2016 results",
                 "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-july-15-june-16.html",
-                "format": "HTML"
+                "format": "TXT"
             },
             {
                 "title": "Customer Satisfaction and Perceptions survey results April to June 2016",
                 "download URL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-apr-june-16.html",
-                "format": "HTML"
+                "format": "TXT"
             },
             {
                 "title": "Survey results from January to March 2016",
                 "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-jan-march-16.html",
-                "format": "HTML"
+                "format": "TXT"
             },
             {
                 "title": "Survey results from October to December 2015",
                 "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-oct-dec-15.html",
-                "format": "HTML"
+                "format": "TXT"
             },
             {
                 "title": "Survey results from July to September 2015",
                 "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-jul-sep-15.html",
-                "format": "HTML"
+                "format": "TXT"
             }
         ]
     },
@@ -447,27 +447,27 @@
             {
                 "title": "July 2016 to June 2017 results",
                 "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-july-16-june-17.html",
-                "format": "HTML"
+                "format": "TXT"
             },
             {
                 "title": "Survey results from April to June 2017",
                 "download URL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-april-june-17.html",
-                "format": "HTML"
+                "format": "TXT"
             },
             {
                 "title": "Survey results from January to March 2017",
                 "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-jan-march-17.html",
-                "format": "HTML"
+                "format": "TXT"
             },
             {
                 "title": "Survey results from October to December 2016",
                 "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-oct-dec-16.html",
-                "format": "HTML"
+                "format": "TXT"
             },
             {
                 "title": "Survey results from July to September 2016",
                 "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-jul-sep-16.html",
-                "format": "HTML"
+                "format": "TXT"
             }
         ]
     },
@@ -495,27 +495,27 @@
             {
                 "title": "Annual Survey results from July 2017 to June 2018 results",
                 "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-ann-jul-17-jun-18.html",
-                "format": "HTML"
+                "format": "TXT"
             },
             {
                 "title": "Survey results from April to June 2018",
                 "download URL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-apr-jun-18.html",
-                "format": "HTML"
+                "format": "TXT"
             },
             {
                 "title": "Survey results from January to March 2018",
                 "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-jan-march-18.html",
-                "format": "HTML"
+                "format": "TXT"
             },
             {
                 "title": "Survey results from October to December 2017",
                 "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-oct-dec-17.html",
-                "format": "HTML"
+                "format": "TXT"
             },
             {
                 "title": "Survey results from July to September 2017",
                 "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-jul-sep-17.html",
-                "format": "HTML"
+                "format": "TXT"
             }
         ]
     },
@@ -543,21 +543,22 @@
             {
                 "title": "Survey results from July to September 2019",
                 "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/customer-satisfaction-results-july-sept-19.html",
-                "format": "HTML"
+                "format": "TXT"
             },
             {
                 "title": "Survey results from April to June 2019",
                 "download URL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/customer-satisfaction-results-apri-jun-19.html",
-                "format": "HTML"
+                "format": "TXT"
             },
             {
                 "title": "Survey results from January to March 2019",
-                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/customer-satisfaction-results-jan-mar-19.html"
+                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/customer-satisfaction-results-jan-mar-19.html",
+                "format": "TXT"
             },
             {
                 "title": "Survey results from October to December 2019",
                 "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/customer-satisfaction-results-oct-dec-18.html",
-                "format": "`"
+                "format": "TXT"
             }
         ]
     },
