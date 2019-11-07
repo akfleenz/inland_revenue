@@ -370,6 +370,54 @@
         ]
     },
     {
+        "title": "Customer Satisfaction and Perceptions survey results 2015-16",
+        "description": "Survey results for customer satisfaction and perception of Inland Revenue",
+        "accrualPeriodicity": "R/P3M",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "corporate data",
+            "customer"
+        ],
+        "landingPage": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-index-2015-2016.html",
+        "Status": "Published",
+        "temporal": "07-2015/06-2016",
+        "theme": "Corporate Data, Customer",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
+        "contactPoint": {
+            "fn": "Inland Revenue",
+            "hasEmail": "open.data2@ird.govt.nz"
+        },
+        "distribution": [
+            {
+                "title": "Annual survey results July 2015 - June 2016",
+                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-july-15-june-16.html",
+                "format": "HTML"
+            },
+            {
+                "title": "Quarterly survey results for April - June 2016",
+                "download URL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-apr-june-16.html",
+                "format": "HTML"
+            },
+            {
+                "title": "Quarterly survey results for January - March 2016",
+                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-jan-march-16.html",
+                "format": "HTML"
+            },
+            {
+                "title": "Quarterly survey results for October - December 2015",
+                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-oct-dec-15.html",
+                "format": "HTML"
+            },
+            {
+                "title": "Quarterly survey results for July - September 2015",
+                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-jul-sep-15.html",
+                "format": "HTML"
+            }
+        ]
+    },
+    {
         "title": "Entities",
         "description": "General statistics relating to entity types based on region.",
         "accrualPeriodicity": "R/P1Y",
@@ -843,7 +891,7 @@
     },
     {
         "title": "KiwiSaver statistics by year",
-        "description": "The data presented in this section shows selected KiwiSaver statistics for previous financial years.\t\t\t\t\t\t\t\t",
+        "description": "The data presented in this section shows selected KiwiSaver statistics for previous financial years.",
         "accrualPeriodicity": "R/P1Y",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
