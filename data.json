@@ -156,6 +156,37 @@
         ]
     },
     {
+        "title": "Customer Satisfaction and Perceptions survey results 2015 to 2016",
+        "description": "Survey results for customer satisfaction and perception of Inland Revenue",
+        "accrualPeriodicity": "R/P3M",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "corporate data",
+            "customer satisfaction"
+        ],
+        "temporal": "07-2015/06-2016",
+        "theme": "Corporate data",
+        "publisher": {
+            "name": "Inland Revenue"
+        },
+        "contactPoint": {
+            "fn": "Inland Revenue",
+            "hasEmail": "open.data2@ird.govt.nz"
+        },
+        "distribution": [
+            {
+                "title": "Annual survey results July 2015 - June 2016",
+                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-july-15-june-16.html",
+                "format": "HTML"
+            },
+            {
+                "title": "Quarterly survey results for April - June 2016",
+                "download URL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-apr-june-16.html",
+                "format": "HTML"
+            }
+        ]
+    },
+    {
         "title": "Amount of KiwiSaver funds withdrawn by reasons 2010-2019",
         "description": "Statistics on the dollar amount of fund withdrawals each financial year for both first home and financial  by hardship withdrawals",
         "accrualPeriodicity": "R/P1Y",
@@ -366,54 +397,6 @@
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/9/1/912094cf-f122-4b28-82dd-9760ddae3449/business-individuals.csv",
                 "format": "CSV",
                 "size": "11kb"
-            }
-        ]
-    },
-    {
-        "title": "Customer Satisfaction and Perceptions survey results 2015-16",
-        "description": "Survey results for customer satisfaction and perception of Inland Revenue",
-        "accrualPeriodicity": "R/P3M",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "corporate data",
-            "customer"
-        ],
-        "landingPage": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-index-2015-2016.html",
-        "Status": "Published",
-        "temporal": "07-2015/06-2016",
-        "theme": "Corporate Data, Customer",
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Inland Revenue",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "distribution": [
-            {
-                "title": "Annual survey results July 2015 - June 2016",
-                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-july-15-june-16.html",
-                "format": "HTML"
-            },
-            {
-                "title": "Quarterly survey results for April - June 2016",
-                "download URL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-apr-june-16.html",
-                "format": "HTML"
-            },
-            {
-                "title": "Quarterly survey results for January - March 2016",
-                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-jan-march-16.html",
-                "format": "HTML"
-            },
-            {
-                "title": "Quarterly survey results for October - December 2015",
-                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-oct-dec-15.html",
-                "format": "HTML"
-            },
-            {
-                "title": "Quarterly survey results for July - September 2015",
-                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-jul-sep-15.html",
-                "format": "HTML"
             }
         ]
     },
@@ -727,44 +710,6 @@
         ]
     },
     {
-        "title": "Inland Revenue Commissioner's Expenses",
-        "description": "Total expenses attributed to Inland Revenue's commissioner",
-        "accrualPeriodicity": "R/P1Y",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "corporate data",
-            "financial reports  measures"
-        ],
-        "landingPage": "https://www.classic.ird.govt.nz/aboutir/reports/expenses/expenses-previous-years/",
-        "Status": "Published",
-        "temporal": "07-2015/06-2018",
-        "theme": "Corporate Data, Financial reports & measures",
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Inland Revenue",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "distribution": [
-            {
-                "title": "Commissioner Naomi Ferguson's expenses June 2017-18",
-                "downloadURL": "https://www.classic.ird.govt.nz/resources/d/c/dc27fd38-d7e3-4de1-b54a-2e29fcada02c/commissioners-expenses-july-2017-june-2018.xlsx",
-                "format": "XLXS",
-                "size": "34kb"
-            },
-            {
-                "title": "Commissioner Naomi Ferguson's expenses June 2016-17",
-                "download URL": "https://www.classic.ird.govt.nz/resources/2/4/241989ca-bd8f-47ad-8c1c-35c4ebf8b481/commissioners-expenses-july-2016-june-2017.xlsx",
-                "format": "XLXS",
-                "size": "27kb"
-            },
-            {
-                "title": "Commissioner Naomi Ferguson's expenses June 2015-16"
-            }
-        ]
-    },
-    {
         "title": "IRD number applications",
         "description": "This report provides information around IRD number applications by individuals and non-individuals. It includes information around the residency status of applicants and their reasons for applying (If this is for the purpose of purchasing property).",
         "accrualPeriodicity": "R/P1Y",
@@ -891,7 +836,7 @@
     },
     {
         "title": "KiwiSaver statistics by year",
-        "description": "The data presented in this section shows selected KiwiSaver statistics for previous financial years.",
+        "description": "The data presented in this section shows selected KiwiSaver statistics for previous financial years.\t\t\t\t\t\t\t\t",
         "accrualPeriodicity": "R/P1Y",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
