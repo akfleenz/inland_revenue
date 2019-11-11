@@ -1,6 +1,6 @@
 {
       "@context": "https://www.data.govt.nz/catalog.jsonld",
-      "@id": "www.ird.govt.nz/data.json",
+      "@id": "https://www.ird.govt.nz/data.json",
       "@type": "dcat:Catalog",
       "conformsTo": "https://www.data.govt.nz/toolkit/schema",
       "dataset":[
@@ -25,7 +25,7 @@
         ],
         "landingPage": "https://www.ird.govt.nz/aboutir/external-stats/customers/act-by-entity-type/",
         "Status": "Published",
-        "temporal": "03-2008/03-2017",
+        "temporal": "03-2008/",
         "theme": "Customer",
         "publisher": {
             "name": "Inland Revenue"
@@ -70,7 +70,7 @@
         ],
         "landingPage": "https://www.ird.govt.nz/aboutir/external-stats/customers/act-by-geo-area/",
         "Status": "Published",
-        "temporal": "03-2008/03-2017",
+        "temporal": "03-2008",
         "theme": "Customer",
         "publisher": {
             "name": "Inland Revenue"
