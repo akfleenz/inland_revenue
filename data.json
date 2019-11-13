@@ -6,7 +6,7 @@
       "dataset":[
     {
         "title": "Active customers by entity type",
-        "description": "Shows�the number of active�customers grouped by entity type.",
+        "description": "Shows the number of active customers grouped by entity type.",
         "identifier": "https://www.ird.govt.nz/aboutir/external-stats/customers/act-by-entity-type/",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
@@ -33,7 +33,7 @@
         "landingPage": "https://www.ird.govt.nz/aboutir/external-stats/customers/act-by-entity-type/",
         "accrualPeriodicity": "R/P1Y",
         "theme": "Customer",
-        "temporal": "03-2008/",
+        "temporal": "03-2008/03-2017",
         "distribution": [
             {
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/8/7/876cac83-29b3-4453-93a8-a74f2d5c5382/2.3+-+Active-custs-by-ET.csv",
@@ -41,14 +41,15 @@
                 "title": "Active customers by entity type"
             },
             {
-                "format": "XLXS",
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/f/5/f5b5ace1-6d2b-4917-af74-5b1816ea816c/2.3+-+Active-customers-by-ET.xlsx",
+                "format": "XLSX",
                 "title": "Active customers by entity type"
             }
         ]
     },
     {
         "title": "Active customers by geographic areas",
-        "description": "Shows�the number of active�customers by geographic area. Area is defined through proximity to district office.",
+        "description": "Shows the number of active customers by geographic area. Area is defined through proximity to district office.",
         "identifier": "https://www.ird.govt.nz/aboutir/external-stats/customers/act-by-geo-area/",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
@@ -83,7 +84,8 @@
                 "title": "Active customers by geographic areas"
             },
             {
-                "format": "XLXS",
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/5/0/502bda16-efb5-486b-8214-e4b3224fd90b/reg-customers-geo-area-17-excel.xlsx",
+                "format": "XLSX",
                 "title": "Active customers by geographic areas"
             }
         ]
@@ -137,7 +139,7 @@
         },
         "landingPage": "https://www.classic.ird.govt.nz/aboutir/external-stats/regional-stats/regional-tax-statistics.html",
         "accrualPeriodicity": "R/P1Y",
-        "theme": "PAYE,�Goods & Services Tax,�Income Tax, Imputation Taxes, Withholding Tax, Child Support, Working for Families Tax Credits, Student Loans, Fringe Benefit Tax, Customer",
+        "theme": "PAYE, Goods & Services Tax, Income Tax, Imputation Taxes, Withholding Tax, Child Support, Working for Families Tax Credits, Student Loans, Fringe Benefit Tax, Customer",
         "temporal": "04-2015/03-2016",
         "distribution": [
             {
@@ -149,7 +151,7 @@
     },
     {
         "title": "Amount of KiwiSaver funds withdrawn by reasons 2010-2019",
-        "description": "Statistics on the dollar amount of fund withdrawals each financial year for both first home and financial� by hardship withdrawals",
+        "description": "Statistics on the dollar amount of fund withdrawals each financial year for both first home and financial  by hardship withdrawals",
         "identifier": "https://www.kiwisaver.govt.nz/statistics/annual/withdrawals/",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
@@ -291,7 +293,7 @@
         },
         "landingPage": "https://www.classic.ird.govt.nz/aboutir/external-stats/regional-stats/regional-tax-statistics.html",
         "accrualPeriodicity": "R/P1Y",
-        "theme": "PAYE,�Goods & Services Tax,�Income Tax, Imputation Taxes, Withholding Tax, Child Support, Working for Families Tax Credits, Student Loans, Fringe Benefit Tax, Customer",
+        "theme": "PAYE, Goods & Services Tax, Income Tax, Imputation Taxes, Withholding Tax, Child Support, Working for Families Tax Credits, Student Loans, Fringe Benefit Tax, Customer",
         "temporal": "04-2015/03-2016",
         "distribution": [
             {
@@ -342,7 +344,7 @@
         },
         "landingPage": "https://www.classic.ird.govt.nz/aboutir/external-stats/regional-stats/regional-tax-statistics.html",
         "accrualPeriodicity": "R/P1Y",
-        "theme": "PAYE,�Goods & Services Tax,�Income Tax, Imputation Taxes, Withholding Tax, Child Support, Working for Families Tax Credits, Student Loans, Fringe Benefit Tax, Customer",
+        "theme": "PAYE, Goods & Services Tax, Income Tax, Imputation Taxes, Withholding Tax, Child Support, Working for Families Tax Credits, Student Loans, Fringe Benefit Tax, Customer",
         "temporal": "04-2015/03-2016",
         "distribution": [
             {
@@ -577,7 +579,7 @@
         },
         "landingPage": "https://www.classic.ird.govt.nz/aboutir/external-stats/regional-stats/regional-tax-statistics.html",
         "accrualPeriodicity": "R/P1Y",
-        "theme": "PAYE,�Goods & Services Tax,�Income Tax, Imputation Taxes, Withholding Tax, Child Support, Working for Families Tax Credits, Student Loans, Fringe Benefit Tax, Customer",
+        "theme": "PAYE, Goods & Services Tax, Income Tax, Imputation Taxes, Withholding Tax, Child Support, Working for Families Tax Credits, Student Loans, Fringe Benefit Tax, Customer",
         "temporal": "04-2015/03-2016",
         "distribution": [
             {
@@ -764,7 +766,7 @@
         },
         "landingPage": "https://www.classic.ird.govt.nz/aboutir/external-stats/regional-stats/regional-tax-statistics.html",
         "accrualPeriodicity": "R/P1Y",
-        "theme": "PAYE,�Goods & Services Tax,�Income Tax, Imputation Taxes, Withholding Tax, Child Support, Working for Families Tax Credits, Student Loans, Fringe Benefit Tax, Customer",
+        "theme": "PAYE, Goods & Services Tax, Income Tax, Imputation Taxes, Withholding Tax, Child Support, Working for Families Tax Credits, Student Loans, Fringe Benefit Tax, Customer",
         "temporal": "04-2015/03-2016",
         "distribution": [
             {
@@ -935,7 +937,7 @@
     },
     {
         "title": "KiwiSaver refunds withdrawn by reason 2010-2019",
-        "description": "Statistics relating to the dollar amount of fund withdrawals each financial year for both first home and financial�hardship withdrawals.",
+        "description": "Statistics relating to the dollar amount of fund withdrawals each financial year for both first home and financial hardship withdrawals.",
         "identifier": "https://www.kiwisaver.govt.nz/statistics/annual/withdrawals/",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
@@ -959,7 +961,7 @@
             {
                 "downloadURL": "https://www.kiwisaver.govt.nz/resources/c/4/c4453c804172d32dbc34fe6fe0111a70/Annual+-+Data.xls",
                 "format": "XLS",
-                "title": "Dollar amount of fund withdrawals each financial year for both first home and financial�hardship withdrawals."
+                "title": "Dollar amount of fund withdrawals each financial year for both first home and financial hardship withdrawals."
             }
         ]
     },
@@ -1078,7 +1080,7 @@
         },
         "landingPage": "https://www.classic.ird.govt.nz/aboutir/external-stats/regional-stats/regional-tax-statistics.html",
         "accrualPeriodicity": "R/P1Y",
-        "theme": "PAYE,�Goods & Services Tax,�Income Tax, Imputation Taxes, Withholding Tax, Child Support, Working for Families Tax Credits, Student Loans, Fringe Benefit Tax, Customer",
+        "theme": "PAYE, Goods & Services Tax, Income Tax, Imputation Taxes, Withholding Tax, Child Support, Working for Families Tax Credits, Student Loans, Fringe Benefit Tax, Customer",
         "temporal": "04-2015/03-2016",
         "distribution": [
             {
@@ -1117,7 +1119,7 @@
     },
     {
         "title": "Number of active or provisional KiwiSaver members, by age group",
-        "description": "Statistics relating to the number of active or provisional KiwiSaver members as at the end of each financial year, by�age group",
+        "description": "Statistics relating to the number of active or provisional KiwiSaver members as at the end of each financial year, by age group",
         "identifier": "https://www.kiwisaver.govt.nz/statistics/annual/joining/",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
@@ -1140,13 +1142,13 @@
             {
                 "downloadURL": "https://www.kiwisaver.govt.nz/resources/c/4/c4453c804172d32dbc34fe6fe0111a70/Annual+-+Data.xls",
                 "format": "XLS",
-                "title": "Number of active or provisional KiwiSaver members, financial year, by�age"
+                "title": "Number of active or provisional KiwiSaver members, financial year, by age"
             }
         ]
     },
     {
         "title": "Number of active or provisional KiwiSaver members, by gender",
-        "description": "Statistics relating to the number of active or provisional KiwiSaver members as at the end of each financial year, by�gender",
+        "description": "Statistics relating to the number of active or provisional KiwiSaver members as at the end of each financial year, by gender",
         "identifier": "https://www.kiwisaver.govt.nz/statistics/annual/joining/",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
@@ -1197,10 +1199,13 @@
             {
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/f/7/f7b4ec6b-89bf-4274-a147-8d428a480b6d/6.2-+child-support-csv.csv",
                 "format": "CSV",
+                "size": "1 KB",
                 "title": "Number of child support customers and cash collection"
             },
             {
-                "format": "XLXS",
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/5/c/5cd21169-210b-4895-b72f-eca5a2d6bbc0/6.2-+child-support.xlsx",
+                "format": "XLSX",
+                "size": "15 KB",
                 "title": "Number of child support customers and cash collection"
             }
         ]
@@ -1270,7 +1275,7 @@
             },
             {
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/d/2/d26ce924-465a-4293-a1d5-350323481443/number-of-cust-by-return-types.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "size": "24 KB",
                 "title": "Number of customers by return types"
             }
@@ -1321,7 +1326,7 @@
     },
     {
         "title": "Number of individuals opted out of KiwiSaver 2010-2019",
-        "description": "Statistics relating to the number of individuals as at the end of each financial year, who have opted out of� KiwiSaver within th provisional period",
+        "description": "Statistics relating to the number of individuals as at the end of each financial year, who have opted out of  KiwiSaver within th provisional period",
         "identifier": "https://www.kiwisaver.govt.nz/statistics/annual/joining/",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
@@ -1346,13 +1351,13 @@
             {
                 "downloadURL": "https://www.kiwisaver.govt.nz/resources/c/4/c4453c804172d32dbc34fe6fe0111a70/Annual+-+Data.xls",
                 "format": "XLS",
-                "title": "Number of individuals as at the end of each financial year, who have opted out of�KiwiSaver within the provisional period."
+                "title": "Number of individuals as at the end of each financial year, who have opted out of KiwiSaver within the provisional period."
             }
         ]
     },
     {
         "title": "Number of KiwiSaver closed account 2010-2019",
-        "description": "Statistics on the number of members at the end of each financial year who have closed their account and� withdrawn their savings due to retirement, permanent emigration, death or serious illness",
+        "description": "Statistics on the number of members at the end of each financial year who have closed their account and  withdrawn their savings due to retirement, permanent emigration, death or serious illness",
         "identifier": "https://www.kiwisaver.govt.nz/statistics/annual/exiting/",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
@@ -1381,7 +1386,7 @@
         ]
     },
     {
-        "title": "Number of people convicted�under the Tax Administration Act",
+        "title": "Number of people convicted under the Tax Administration Act",
         "description": "The number of people convicted under the Tax Administration Act 1994 in each calendar year. A person may have more than one prosecution in each year.",
         "identifier": "https://www.classic.ird.govt.nz/aboutir/audit-and-legal-issues/convictions-under-tax-act/",
         "license": "https://creativecommons.org/licenses/by/4.0/",
@@ -1407,21 +1412,20 @@
             {
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/c/0/c012cea0-865d-456a-aee4-779ebdeb4dd2/11.7no-people-convicted.csv",
                 "format": "CSV",
-                "title": "Number of people convicted�under the Tax Administration Act"
+                "size": "2 KB",
+                "title": "Number of people convicted under the Tax Administration Act"
             },
             {
-                "format": "XLXS",
-                "title": "Number of people convicted�under the Tax Administration Act"
-            },
-            {
-                "downloadURL": "https://www.classic.ird.govt.nz/resources/b/3/b354daad-0283-44b7-9684-89a8b79e902f/commissioners-expenses-july-2015-June-2016.xlsx",
-                "format": "XLXS"
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/3/c/3ca1048c-e68e-409c-a546-f16556a87725/11.7no-people-convicted.xlsx",
+                "format": "XLSX",
+                "size": "18 KB",
+                "title": "Number of people convicted under the Tax Administration Act"
             }
         ]
     },
     {
         "title": "Number of tax agents by geographic area",
-        "description": "The number of tax agents in a given geographic loction. A�tax agent�is a person who prepares the annual returns of income for ten or more taxpayers.",
+        "description": "The number of tax agents in a given geographic loction. A tax agent is a person who prepares the annual returns of income for ten or more taxpayers.",
         "identifier": "https://www.ird.govt.nz/aboutir/external-stats/tax-agents/agents-by-geo-area/",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
@@ -1444,25 +1448,14 @@
             {
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/2/f/2f540aa6-25cd-4556-8b9f-96eca58d0041/agents-by-location.csv",
                 "format": "CSV",
+                "size": "1 KB",
                 "title": "Number of tax agents by geographic area"
             },
             {
-                "format": "XLXS",
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/0/c/0cd160e2-75b7-4589-8365-2869870b1371/agents-by-location.xlsx",
+                "format": "XLSX",
+                "size": "20 KB",
                 "title": "Number of tax agents by geographic area"
-            },
-            {
-                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-jan-march-18.html",
-                "format": "HTML"
-            },
-            {
-                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-oct-dec-17.html",
-                "format": "HTML",
-                "title": "Survey results from October to December 2017"
-            },
-            {
-                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-jul-sep-17.html",
-                "format": "HTML",
-                "title": "Survey results from July to September 2017"
             }
         ]
     },
@@ -1493,31 +1486,20 @@
             {
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/1/5/15e868fb-ea8c-4c13-ac74-ab9199d5ade8/11.6no-convictions.csv",
                 "format": "CSV",
+                "size": "2 KB",
                 "title": "Number of tax convictions"
             },
             {
-                "format": "XLXS",
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/a/1/a11e8cec-bf21-489a-a2d7-e76ef38592d1/11.6no-convictions.xlsx",
+                "format": "XLSX",
+                "size": "18 KB",
                 "title": "Number of tax convictions"
-            },
-            {
-                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-jan-march-17.html",
-                "format": "HTML"
-            },
-            {
-                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-oct-dec-16.html",
-                "format": "HTML",
-                "title": "Survey results from October to December 2016"
-            },
-            {
-                "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-results-jul-sep-16.html",
-                "format": "HTML",
-                "title": "Survey results from July to September 2016"
             }
         ]
     },
     {
         "title": "Outcome of cases decided by Disputes Review Unit",
-        "description": "The outcomes of adjudication cases decided by the Disputes Review Unit. All cases are split into five�categories�depending on the degree to which the position of the Commissioner of Inland Revenue (CIR) was upheld.",
+        "description": "The outcomes of adjudication cases decided by the Disputes Review Unit. All cases are split into five categories depending on the degree to which the position of the Commissioner of Inland Revenue (CIR) was upheld.",
         "identifier": "https://www.classic.ird.govt.nz/aboutir/audit-and-legal-issues/disputes-review-unit/outcome-of-cases-disputes-review.html",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
@@ -1577,7 +1559,7 @@
     },
     {
         "title": "Overdue debt by debt age",
-        "description": "The dynamics of�overdue debt case age�from the 2008 to 2017 financial years. It covers both�overdue tax debt�and�overdue child support debt. The debt age structure is presented both for dollar values and debt cases. The age of each debt case is weighted based on�weighted overdue debt case age.",
+        "description": "The dynamics of overdue debt case age from the 2008 to 2017 financial years. It covers both overdue tax debt and overdue child support debt. The debt age structure is presented both for dollar values and debt cases. The age of each debt case is weighted based on weighted overdue debt case age.",
         "identifier": "https://www.ird.govt.nz/aboutir/external-stats/debt/overdue-debt-by-debt-age/",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
@@ -1615,17 +1597,20 @@
             {
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/6/d/6db51d6d-cce2-4b93-b173-34a009743df6/7.3-+Overdue-debt-age-csv.csv",
                 "format": "CSV",
+                "size": "4 KB",
                 "title": "Overdue debt by debt age"
             },
             {
-                "format": "XLXS",
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/b/f/bff9c528-5dc9-44ce-bede-43585fc1c024/7.3+-+overdue-debt-age-excel.xlsx",
+                "format": "XLSX",
+                "size": "38 KB",
                 "title": "Overdue debt by debt age"
             }
         ]
     },
     {
         "title": "Overdue debt by debt value bands",
-        "description": "The composition of�overdue tax debt�and�overdue child support debt�by dollar value bands. The Analysis is presented for both the value of debt and the proportion of debt cases.",
+        "description": "The composition of overdue tax debt and overdue child support debt by dollar value bands. The Analysis is presented for both the value of debt and the proportion of debt cases.",
         "identifier": "https://www.ird.govt.nz/aboutir/external-stats/debt/overdue-debt-by-value-bands/",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
@@ -1674,7 +1659,7 @@
     },
     {
         "title": "Overdue debt by tax type",
-        "description": "The structure of the total overdue debt for various different tax types for the financial years from 2008 to 2017. (child support debt, student loan debt, tax debt, working for families tax credits debt)",
+        "description": "The structure of the total overdue debt for various different tax types for the financial years from 2008 to 2017",
         "identifier": "https://www.ird.govt.nz/aboutir/external-stats/debt/overdue-debt-tax-type/",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
@@ -1712,10 +1697,13 @@
             {
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/d/a/da0045fa-d727-41fa-b5b1-b03a37eba54d/7.2-overdue-debt-tax-type-csv.csv",
                 "format": "CSV",
+                "size": "2 KB",
                 "title": "Overdue debt by tax type"
             },
             {
-                "format": "XLXS",
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/e/8/e86e760b-5052-4286-9d06-d3d474eca5ce/7.2+-+overdue-debt-tax-type-excel.xlsx",
+                "format": "XLSX",
+                "size": "19 KB",
                 "title": "Overdue debt by tax type"
             }
         ]
@@ -1783,7 +1771,7 @@
     },
     {
         "title": "Percentage of child support payments made by liable parents in full and on time",
-        "description": "The percentage of payments made by�liable parents�in full and on time.",
+        "description": "The percentage of payments made by liable parents in full and on time.",
         "identifier": "https://www.ird.govt.nz/aboutir/external-stats/compliance/cs-payments-made-on-time/",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
@@ -1806,10 +1794,13 @@
             {
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/6/6/66b36a5f-6c3f-4f1d-8881-81952d55992a/payments-full-on-time-liable-parents-17-csv.csv",
                 "format": "CSV",
+                "size": "1 KB",
                 "title": "Percentage of child support payments made by liable parents in full and on time"
             },
             {
-                "format": "XLXS",
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/9/5/95fe07f5-e989-41cf-a848-ba048c9a478e/payments-full-on-time-liable-parents-17-excel.xlsx",
+                "format": "XLSX",
+                "size": "17 KB",
                 "title": "Percentage of child support payments made by liable parents in full and on time"
             }
         ]
@@ -1849,10 +1840,13 @@
             {
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/b/a/ba916122-a305-4f0e-996a-58809748bffb/percentage-payments-on-time-17-csv.csv",
                 "format": "CSV",
+                "size": "1 KB",
                 "title": "Percentage of payments made on time"
             },
             {
-                "format": "XLXS",
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/8/f/8f4ef787-285f-49a3-aeee-8cf5d7961485/percentage-payments-on-time-17-excel.xlsx",
+                "format": "XLSX",
+                "size": "15 KB",
                 "title": "Percentage of payments made on time"
             }
         ]
@@ -1892,10 +1886,13 @@
             {
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/0/8/0890c5c2-3d0a-429e-817f-3956aa97a5ea/9.2+-+returns-filed-on-time-excel-csv.csv",
                 "format": "CSV",
+                "size": "1 KB",
                 "title": "Percentage of returns filed on time"
             },
             {
-                "format": "XLXS",
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/a/6/a65e3b8d-ea1b-4a12-9ed6-8feffbcb1704/9.2-+returns-filed-on-time-excel.xlsx",
+                "format": "XLSX",
+                "size": "19 KB",
                 "title": "Percentage of returns filed on time"
             }
         ]
@@ -1938,19 +1935,19 @@
         },
         "landingPage": "https://www.classic.ird.govt.nz/aboutir/external-stats/regional-stats/regional-tax-statistics.html",
         "accrualPeriodicity": "R/P1Y",
-        "theme": "PAYE,�Goods & Services Tax,�Income Tax, Imputation Taxes, Withholding Tax, Child Support, Working for Families Tax Credits, Student Loans, Fringe Benefit Tax, Customer",
+        "theme": "PAYE, Goods & Services Tax, Income Tax, Imputation Taxes, Withholding Tax, Child Support, Working for Families Tax Credits, Student Loans, Fringe Benefit Tax, Customer",
         "temporal": "04-2015/03-2016",
         "distribution": [
             {
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/2/0/20e0792e-d7c5-479e-9de5-bf8b281763ad/regional-tax-stats-2016.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "title": "Regional tax statistics 2016"
             }
         ]
     },
     {
         "title": "Registered customers by entity type",
-        "description": "Includes all customers registered with Inland Revenue, either�individuals�or�entities.",
+        "description": "Includes all customers registered with Inland Revenue, either individuals or entities.",
         "identifier": "https://www.ird.govt.nz/aboutir/external-stats/customers/reg-by-entity-type/",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
@@ -1982,17 +1979,20 @@
             {
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/e/0/e01efc7d-280e-4636-9f54-d60e644dc255/2.1+-+reg-cust-csv.csv",
                 "format": "CSV",
+                "size": "2 KB",
                 "title": "Registered customers by entity type"
             },
             {
-                "format": "XLXS",
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/d/b/db702210-6d1b-4f3a-b34d-87a98d9db693/2.1-reg-cust-by-entity-type.xlsx",
+                "format": "XLSX",
+                "size": "16 KB",
                 "title": "Registered customers by entity type"
             }
         ]
     },
     {
         "title": "Registered customers by geographic areas",
-        "description": "Includes all customers registered with Inland Revenue, either�individuals�or�entities. Geographic area is determined by proximity to district office.",
+        "description": "Includes all customers registered with Inland Revenue, either individuals or entities. Geographic area is determined by proximity to district office.",
         "identifier": "https://www.ird.govt.nz/aboutir/external-stats/customers/reg-by-geo-area/",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
@@ -2024,17 +2024,20 @@
             {
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/9/e/9e33245c-2f93-46e3-ae8f-6811a3fc5ec3/reg-customers-geo-area-17-csv.csv",
                 "format": "CSV",
+                "size": "3 KB",
                 "title": "Registered customers by geographic areas"
             },
             {
-                "format": "XLXS",
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/5/0/502bda16-efb5-486b-8214-e4b3224fd90b/reg-customers-geo-area-17-excel.xlsx",
+                "format": "XLSX",
+                "size": "22 KB",
                 "title": "Registered customers by geographic areas"
             }
         ]
     },
     {
         "title": "Registered customers by group",
-        "description": "Registered customer groups shown here are,�non-profit organisations,�large enterprises,�individuals and�small and medium enterprises.",
+        "description": "Registered customer groups shown here are, non-profit organisations, large enterprises, individuals and small and medium enterprises.",
         "identifier": "https://www.ird.govt.nz/aboutir/external-stats/customers/reg-by-customer-group/",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
@@ -2066,10 +2069,13 @@
             {
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/c/f/cfee5c35-4cb8-4748-9081-8b2d4136b2b5/registered-customer-group.csv",
                 "format": "CSV",
+                "size": "1 KB",
                 "title": "Registered customers by group"
             },
             {
-                "format": "XLXS",
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/b/3/b38c49df-e055-4195-a325-317d61fa256f/registered-customer-group.xlsx",
+                "format": "XLSX",
+                "size": "15 KB",
                 "title": "Registered customers by group"
             }
         ]
@@ -2104,10 +2110,13 @@
             {
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/6/e/6e9cd921-2834-4532-b74d-e6278c821e2d/returns_filed-csv.csv",
                 "format": "CSV",
+                "size": "3 KB",
                 "title": "Returns filed"
             },
             {
-                "format": "XLXS",
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/d/5/d52bffeb-8638-480f-92e5-08ed453188d7/returns-filed.xlsx",
+                "format": "XLSX",
+                "size": "16 KB",
                 "title": "Returns filed"
             }
         ]
@@ -2150,17 +2159,20 @@
             {
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/d/2/d2f153f0-97f2-4e7d-acae-249a64e6348e/revcol+csv.csv",
                 "format": "CSV",
+                "size": "2 KB",
                 "title": "Revenue collected"
             },
             {
-                "format": "XLXS",
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/9/b/9b027f2c-8b0a-4975-9bcf-3100a32ec58f/rev+collected.xlsx",
+                "format": "XLSX",
+                "size": "19 KB",
                 "title": "Revenue collected"
             }
         ]
     },
     {
         "title": "Scheme entry method by year 2010-2019",
-        "description": "Statistics relating to the number of active or provisional KiwiSaver members at the end of each financial year,� by their current scheme entry method",
+        "description": "Statistics relating to the number of active or provisional KiwiSaver members at the end of each financial year,  by their current scheme entry method",
         "identifier": "https://www.kiwisaver.govt.nz/statistics/annual/schemes/",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
@@ -2217,7 +2229,7 @@
     },
     {
         "title": "Shortfall penalty impositions",
-        "description": "The number and value of shortfall penalties in total and by category. A�shortfall penalty�(SFP) is one imposed as a percentage of a tax shortfall (a deficit or understatement of tax), resulting from certain actions on the part of a taxpayer.",
+        "description": "The number and value of shortfall penalties in total and by category. A shortfall penalty (SFP) is one imposed as a percentage of a tax shortfall (a deficit or understatement of tax), resulting from certain actions on the part of a taxpayer.",
         "identifier": "https://www.classic.ird.govt.nz/aboutir/audit-and-legal-issues/shortfall-penalty/shortfall-penalty-impositions.html",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
@@ -2560,7 +2572,7 @@
         "distribution": [
             {
                 "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0007/192886/Data-Tables-2018.xlsx",
-                "format": "XLXS",
+                "format": "XLSX",
                 "title": "Student Loan Scheme 2018 Data Tables"
             }
         ]
@@ -2598,8 +2610,8 @@
         ]
     },
     {
-        "title": "Total overdue debt",
-        "description": "The total�overdue tax debt, the�overdue child support debt, the number of�customers in debt, the number of debt cases, and the annual debt dynamics for the financial years 2008 to 2017",
+        "title": "Overdue debt data",
+        "description": "Overdue tax debt statistics including overdue child support deblt and the number of customers in debt.",
         "identifier": "https://www.ird.govt.nz/aboutir/external-stats/debt/total-overdue-debt/",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
@@ -2637,10 +2649,13 @@
             {
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/4/c/4cc7d1a6-2513-4099-8223-60ef2b46afe1/7.1+-+total_overdue_debt_csv.csv",
                 "format": "CSV",
+                "size": "1 KB",
                 "title": "Total overdue debt"
             },
             {
-                "format": "XLXS",
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/b/a/ba6f1502-0700-4cfa-b160-e4616baba62f/7.1+-+total-overdue-debt-excel.xlsx",
+                "format": "XLSX",
+                "size": "16 KB",
                 "title": "Total overdue debt"
             }
         ]
@@ -2681,7 +2696,7 @@
     },
     {
         "title": "Use of return filing channels",
-        "description": "Describes the use of the three core channels used for filing tax data�(eFiling,� online filing using myIR secure login services or paper based filing)",
+        "description": "Statistics on the three core channels used for filing tax data (eFiling,  online filing using myIR secure login services or paper based filing)",
         "identifier": "https://www.ird.govt.nz/aboutir/external-stats/tax-returns/filing-channels/",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
@@ -2709,11 +2724,14 @@
             {
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/c/d/cd36494e-9284-4c10-8490-d3b70543b3fa/return-filing-channels.csv",
                 "format": "CSV",
-                "title": "Use of return filing channels"
+                "size": "3 KB",
+                "title": "Return filing channels - 2016 tax year"
             },
             {
-                "format": "XLXS",
-                "title": "Use of return filing channels"
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/5/5/556530ce-f945-4045-b3d2-804991ae6b17/return-filing-channels.xlsx",
+                "format": "XLSX",
+                "size": "33 KB",
+                "title": "Return filing channels - 2016 tax year"
             }
         ]
     },
@@ -2758,7 +2776,7 @@
         },
         "landingPage": "https://www.classic.ird.govt.nz/aboutir/external-stats/regional-stats/regional-tax-statistics.html",
         "accrualPeriodicity": "R/P1Y",
-        "theme": "PAYE,�Goods & Services Tax,�Income Tax, Imputation Taxes, Withholding Tax, Child Support, Working for Families Tax Credits, Student Loans, Fringe Benefit Tax, Customer",
+        "theme": "PAYE, Goods & Services Tax, Income Tax, Imputation Taxes, Withholding Tax, Child Support, Working for Families Tax Credits, Student Loans, Fringe Benefit Tax, Customer",
         "temporal": "04-2015/03-2016",
         "distribution": [
             {
@@ -2805,7 +2823,7 @@
     },
     {
         "title": "Working for Families Tax Credits - average entitlement",
-        "description": "Working for Families Tax Credits�is a collective term for a number of tax credits paid to families with dependent children. Data set includes the average entitlement amount. The data is based on March year entitlements assessed on tax returns and supplemented with the payments data from Work and Income recorded on their EMS schedule. (data considered incomplete until 31/03/18)",
+        "description": "Working for Families Tax Credits is a collective term for a number of tax credits paid to families with dependent children. Data set includes the average entitlement amount. The data is based on March year entitlements assessed on tax returns and supplemented with the payments data from Work and Income recorded on their EMS schedule. (data considered incomplete until 31/03/18)",
         "identifier": "https://www.ird.govt.nz/aboutir/external-stats/social-policy/wfftc/",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
@@ -2839,7 +2857,7 @@
     },
     {
         "title": "Working for Families Tax Credits - number of families",
-        "description": "Working for Families Tax Credits�is a collective term for a number of tax credits paid to families with dependent children. Data set includes the number of families involved. The data is based on March year entitlements, assessed on tax returns and supplemented with the payments data from Work and Income recorded on their EMS schedule. (This data is considered incomplete until 31/03/18). Types of Working for Families Tax Credits included are Family Tax Credit, In-work tax credit, Minimum family tax credit, Parental tax credit.",
+        "description": "Working for Families Tax Credits is a collective term for a number of tax credits paid to families with dependent children. Data set includes the number of families involved. The data is based on March year entitlements, assessed on tax returns and supplemented with the payments data from Work and Income recorded on their EMS schedule. (This data is considered incomplete until 31/03/18). Types of Working for Families Tax Credits included are Family Tax Credit, In-work tax credit, Minimum family tax credit, Parental tax credit.",
         "identifier": "https://www.ird.govt.nz/aboutir/external-stats/social-policy/wfftc/",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
