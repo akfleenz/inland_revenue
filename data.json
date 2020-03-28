@@ -178,50 +178,6 @@
         ]
     },
     {
-        "title": "Donations tax credit claimed",
-        "description": "Statistics relating to donations tax credit claimed 2004 to 2018",
-        "identifier": "https://www.classic.ird.govt.nz/aboutir/external-stats/revenue-refunds/donation-rebates/donations-rebates.html",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "average donations",
-            "donation tax credit",
-            "tax credit"
-        ],
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Inland Revenue",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "landingPage": "https://www.classic.ird.govt.nz/aboutir/external-stats/revenue-refunds/donation-rebates/",
-        "accrualPeriodicity": "R/P1Y",
-        "theme": "Tax Credit, Subsidy and Grant",
-        "temporal": "01-2004/12-2018",
-        "distribution": [
-            {
-                "downloadURL": "https://www.classic.ird.govt.nz/resources/4/d/4d1cba9e-80c2-4662-82d9-6094a407d6a9/ave-donation-claimed-per-claimant-04-18.xlsx",
-                "format": "XLS",
-                "title": "Average donations tax credt claimed per claimant - Excel format"
-            },
-            {
-                "downloadURL": "https://www.classic.ird.govt.nz/resources/4/9/493a413d-07ad-4496-ac94-bef87e200671/ave-donation-claimed-per-claimant-04-18.csv",
-                "format": "CSV",
-                "title": "Average donations tax credt claimed per claimant - CSV format"
-            },
-            {
-                "downloadURL": "https://www.classic.ird.govt.nz/resources/1/8/18452815-bb09-4921-a6eb-6366671b8ef7/num-donations-04-18.xlsx",
-                "format": "XLSX",
-                "title": "Number of donations tax credit claimed - Excel format"
-            },
-            {
-                "downloadURL": "https://www.classic.ird.govt.nz/resources/e/1/e183f1f9-17ed-41b0-86d2-c00dad1b007e/num-donations-04-18.csv",
-                "format": "CSV",
-                "title": "Number of donations tax credit claimed - CSV format"
-            }
-        ]
-    },
-    {
         "title": "Binding rulings",
         "description": "The number of draft rulings issued that are counted under the timeliness measures and the average time to complete those draft rulings.",
         "identifier": "https://www.classic.ird.govt.nz/aboutir/audit-and-legal-issues/binding-rulings/",
@@ -449,6 +405,50 @@
                 "downloadURL": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/customer-satisfaction-results-oct-dec-18.html",
                 "format": "HTML",
                 "title": "Quarterly results for October to December 2018"
+            }
+        ]
+    },
+    {
+        "title": "Donations tax credit claimed",
+        "description": "Statistics relating to donations tax credit claimed 2004 to 2018",
+        "identifier": "https://www.classic.ird.govt.nz/aboutir/external-stats/revenue-refunds/donation-rebates/donations-rebates.html",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "average donations",
+            "donation tax credit",
+            "tax credit"
+        ],
+        "publisher": {
+            "name": "Inland Revenue"
+        },
+        "contactPoint": {
+            "fn": "Inland Revenue",
+            "hasEmail": "open.data2@ird.govt.nz"
+        },
+        "landingPage": "https://www.classic.ird.govt.nz/aboutir/external-stats/revenue-refunds/donation-rebates/",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Tax Credit, Subsidy and Grant",
+        "temporal": "01-2004/12-2018",
+        "distribution": [
+            {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/4/d/4d1cba9e-80c2-4662-82d9-6094a407d6a9/ave-donation-claimed-per-claimant-04-18.xlsx",
+                "format": "XLS",
+                "title": "Average donations tax credt claimed per claimant - Excel format"
+            },
+            {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/4/9/493a413d-07ad-4496-ac94-bef87e200671/ave-donation-claimed-per-claimant-04-18.csv",
+                "format": "CSV",
+                "title": "Average donations tax credt claimed per claimant - CSV format"
+            },
+            {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/1/8/18452815-bb09-4921-a6eb-6366671b8ef7/num-donations-04-18.xlsx",
+                "format": "XLSX",
+                "title": "Number of donations tax credit claimed - Excel format"
+            },
+            {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/e/1/e183f1f9-17ed-41b0-86d2-c00dad1b007e/num-donations-04-18.csv",
+                "format": "CSV",
+                "title": "Number of donations tax credit claimed - CSV format"
             }
         ]
     },
@@ -693,7 +693,7 @@
         "accrualPeriodicity": "irregular",
         "distribution": [
             {
-                "downloadURL": "https://raw.githubusercontent.com/akfleenz/inland_revenue/master/IR_inventory_171019.csv",
+                "downloadURL": "https://raw.githubusercontent.com/akfleenz/inland_revenue/master/IR_inventory.csv",
                 "format": "CSV",
                 "title": "IR's inventory file"
             }
@@ -951,35 +951,6 @@
         ]
     },
     {
-        "title": "Number of active or provisional KiwiSaver members, by age group",
-        "description": "Statistics relating to the number of active or provisional KiwiSaver members as at the end of each financial year, by age group",
-        "identifier": "https://www.kiwisaver.govt.nz/statistics/annual/joining/",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "active or provisional kiwisaver members",
-            "age",
-            "financial year"
-        ],
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Inland Revenue",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "landingPage": "https://www.kiwisaver.govt.nz/statistics/annual/joining/",
-        "accrualPeriodicity": "R/P1Y",
-        "theme": "Social Policy",
-        "temporal": "06-2010/06-2019",
-        "distribution": [
-            {
-                "downloadURL": "https://www.kiwisaver.govt.nz/resources/c/4/c4453c804172d32dbc34fe6fe0111a70/Annual+-+Data.xls",
-                "format": "XLS",
-                "title": "Number of active or provisional KiwiSaver members, financial year, by age"
-            }
-        ]
-    },
-    {
         "title": "Number of active or provisional KiwiSaver members, by gender",
         "description": "Statistics relating to the number of active or provisional KiwiSaver members as at the end of each financial year, by gender",
         "identifier": "https://www.kiwisaver.govt.nz/statistics/annual/joining/",
@@ -1004,34 +975,6 @@
                 "downloadURL": "https://www.kiwisaver.govt.nz/resources/c/4/c4453c804172d32dbc34fe6fe0111a70/Annual+-+Data.xls",
                 "format": "XLS",
                 "title": "Number of active or provisional KiwiSaver member, by gender"
-            }
-        ]
-    },
-    {
-        "title": "Number of active or provisional KiwiSaver members, by gender",
-        "description": "Statistics relating to the number of active or provisional KiwiSaver members as at the end of each financial year, by gender",
-        "identifier": "https://www.kiwisaver.govt.nz/statistics/annual/joining/",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "gender",
-            "number of active or provisional kiwisaver member"
-        ],
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Inland Revenue",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "landingPage": "https://www.kiwisaver.govt.nz/statistics/annual/joining/",
-        "accrualPeriodicity": "R/P1Y",
-        "theme": "Social Policy",
-        "temporal": "06-2010/06-2019",
-        "distribution": [
-            {
-                "downloadURL": "https://www.kiwisaver.govt.nz/resources/c/4/c4453c804172d32dbc34fe6fe0111a70/Annual+-+Data.xls",
-                "format": "XLS",
-                "title": "Number of active or provisional KiwiSaver member, financial year, gender"
             }
         ]
     },
