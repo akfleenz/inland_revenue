@@ -1,6 +1,6 @@
 {
       "@context": "https://www.data.govt.nz/catalog.jsonld",
-      "@id": "https://www.ird.govt.nz/data.json",
+      "@id": "www.ird.govt.nz/data.json",
       "@type": "dcat:Catalog",
       "conformsTo": "https://www.data.govt.nz/toolkit/schema",
       "dataset":[
@@ -38,11 +38,12 @@
             {
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/8/7/876cac83-29b3-4453-93a8-a74f2d5c5382/2.3+-+Active-custs-by-ET.csv",
                 "format": "CSV",
-                "title": "Active customers by entity type"
+                "title": "Data in CSV format"
             },
             {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/f/5/f5b5ace1-6d2b-4917-af74-5b1816ea816c/2.3+-+Active-customers-by-ET.xlsx",
                 "format": "XLSX",
-                "title": "Active customers by entity type"
+                "title": "Data in EXCEL format"
             }
         ]
     },
@@ -80,11 +81,12 @@
             {
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/5/9/5956b7f8-a391-4aec-b90c-dc4876b022db/act-customers-geographic-area-08-17.csv",
                 "format": "CSV",
-                "title": "Active customers by geographic areas"
+                "title": "Data in CSV format"
             },
             {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/a/c/acf46f88-676d-4416-9ed7-a4d303de0232/active-customers-by-geographic-area-08-17.xlsx",
                 "format": "XLSX",
-                "title": "Active customers by geographic areas"
+                "title": "Data in EXCEL format"
             }
         ]
     },
@@ -176,8 +178,8 @@
         ]
     },
     {
-        "title": "Average donations tax credit claimed per claimant 2004 to 2018",
-        "description": "Statistics relating to the average donations tax credit claimed per claimant 2004 to 2018",
+        "title": "Donations tax credit claimed",
+        "description": "Statistics relating to donations tax credit claimed 2004 to 2018",
         "identifier": "https://www.classic.ird.govt.nz/aboutir/external-stats/revenue-refunds/donation-rebates/donations-rebates.html",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
@@ -192,7 +194,7 @@
             "fn": "Inland Revenue",
             "hasEmail": "open.data2@ird.govt.nz"
         },
-        "landingPage": "https://www.classic.ird.govt.nz/aboutir/external-stats/revenue-refunds/donation-rebates/donations-rebates.html",
+        "landingPage": "https://www.classic.ird.govt.nz/aboutir/external-stats/revenue-refunds/donation-rebates/",
         "accrualPeriodicity": "R/P1Y",
         "theme": "Tax Credit, Subsidy and Grant",
         "temporal": "01-2004/12-2018",
@@ -200,11 +202,22 @@
             {
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/4/d/4d1cba9e-80c2-4662-82d9-6094a407d6a9/ave-donation-claimed-per-claimant-04-18.xlsx",
                 "format": "XLS",
-                "title": "Data in EXCEL format"
+                "title": "Average donations tax credt claimed per claimant - Excel format"
             },
             {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/4/9/493a413d-07ad-4496-ac94-bef87e200671/ave-donation-claimed-per-claimant-04-18.csv",
                 "format": "CSV",
-                "title": "Data in CSV"
+                "title": "Average donations tax credt claimed per claimant - CSV format"
+            },
+            {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/1/8/18452815-bb09-4921-a6eb-6366671b8ef7/num-donations-04-18.xlsx",
+                "format": "XLSX",
+                "title": "Number of donations tax credit claimed - Excel format"
+            },
+            {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/e/1/e183f1f9-17ed-41b0-86d2-c00dad1b007e/num-donations-04-18.csv",
+                "format": "CSV",
+                "title": "Number of donations tax credit claimed - CSV format"
             }
         ]
     },
@@ -243,17 +256,19 @@
             {
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/d/2/d2b8d00c-eb74-40b4-b5e7-9da8ada4ee5a/binding-rulings-csv.csv",
                 "format": "CSV",
-                "title": "Binding rulings"
+                "title": "Binding rulings in CSV format"
             },
             {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/5/7/5799b830-b554-44e6-a22c-2db9564bf24e/binding-rulings.xls",
                 "format": "XLS",
-                "title": "Binding rulings"
+                "title": "Binding rulings in Excel format"
             }
         ]
     },
     {
         "title": "Customer Satisfaction and Perceptions survey results 2015 to 2016",
         "description": "Survey results for customer satisfaction and perception of Inland Revenue",
+        "identifier": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-index-2015-2016.html",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
             "corporate data",
@@ -301,6 +316,7 @@
     {
         "title": "Customer Satisfaction and Perceptions survey results 2016 to 2017",
         "description": "Survey results for customer satisfaction and perception of Inland Revenue",
+        "identifier": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-index-2016-2017.html",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
             "corporate data",
@@ -348,6 +364,7 @@
     {
         "title": "Customer Satisfaction and Perceptions survey results 2017 to 2018",
         "description": "Survey results for customer satisfaction and perception of Inland Revenue",
+        "identifier": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/csp-previous-years/customer-satisfaction-index-2017-2018.html",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
             "corporate data",
@@ -395,6 +412,7 @@
     {
         "title": "Customer Satisfaction and Perceptions survey results 2018 to 2019",
         "description": "Survey results for customer satisfaction and perception of Inland Revenue",
+        "identifier": "https://www.classic.ird.govt.nz/aboutir/reports/cust-survey/customer-satisfaction-index-2018-2019.html",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
             "corporate data",
@@ -604,11 +622,12 @@
         "temporal": "01-2001/12-2018",
         "distribution": [
             {
-                "downloadURL": "https://www.classic.ird.govt.nz/resources/6/5/65e60778-a0ab-4d80-afc0-3d6de820b7b0/trust-income.csv",
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/6/7/678add59-e287-49b2-8244-a1d348a1fbed/trusts-data-july-2019-csv.csv",
                 "format": "CSV",
                 "title": "Income of trusts IR6 returns"
             },
             {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/3/9/392fff70-3662-4619-a120-31fe12f222d5/trusts-data-july-2019.xlsx",
                 "format": "XLSX",
                 "title": "Income of trusts IR6 returns"
             }
@@ -629,6 +648,7 @@
             "fn": "Inland Revenue",
             "hasEmail": "open.data2@ird.govt.nz"
         },
+        "landingPage": "https://www.classic.ird.govt.nz/aboutir/reports/expenses/",
         "accrualPeriodicity": "R/P1Y",
         "theme": "Corporate Data, Financial reports and measures",
         "temporal": "07-2015/06-2019",
@@ -639,6 +659,7 @@
                 "title": "Expenses July 2015 to June 2016"
             },
             {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/2/4/241989ca-bd8f-47ad-8c1c-35c4ebf8b481/commissioners-expenses-july-2016-june-2017.xlsx",
                 "format": "XLSX",
                 "title": "Expenses July 2016 to June 2017"
             },
@@ -702,6 +723,7 @@
             "fn": "Inland Revenue",
             "hasEmail": "open.data2@ird.govt.nz"
         },
+        "landingPage": "https://www.classic.ird.govt.nz/aboutir/reports/releases/",
         "accrualPeriodicity": "R/P1Y",
         "theme": "Customer",
         "temporal": "06-2015/06-2017",
@@ -866,6 +888,7 @@
                 "title": "Data in CSV format"
             },
             {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/8/b/8b3a6187-e7ab-4ccd-a635-7d76ad33dd87/net-gst-band-19.xlsx",
                 "format": "XLSX",
                 "title": "Data in EXCEL format"
             }
@@ -928,6 +951,35 @@
         ]
     },
     {
+        "title": "Number of active or provisional KiwiSaver members, by age group",
+        "description": "Statistics relating to the number of active or provisional KiwiSaver members as at the end of each financial year, by age group",
+        "identifier": "https://www.kiwisaver.govt.nz/statistics/annual/joining/",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "active or provisional kiwisaver members",
+            "age",
+            "financial year"
+        ],
+        "publisher": {
+            "name": "Inland Revenue"
+        },
+        "contactPoint": {
+            "fn": "Inland Revenue",
+            "hasEmail": "open.data2@ird.govt.nz"
+        },
+        "landingPage": "https://www.kiwisaver.govt.nz/statistics/annual/joining/",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Social Policy",
+        "temporal": "06-2010/06-2019",
+        "distribution": [
+            {
+                "downloadURL": "https://www.kiwisaver.govt.nz/resources/c/4/c4453c804172d32dbc34fe6fe0111a70/Annual+-+Data.xls",
+                "format": "XLS",
+                "title": "Number of active or provisional KiwiSaver members, financial year, by age"
+            }
+        ]
+    },
+    {
         "title": "Number of active or provisional KiwiSaver members, by gender",
         "description": "Statistics relating to the number of active or provisional KiwiSaver members as at the end of each financial year, by gender",
         "identifier": "https://www.kiwisaver.govt.nz/statistics/annual/joining/",
@@ -956,6 +1008,34 @@
         ]
     },
     {
+        "title": "Number of active or provisional KiwiSaver members, by gender",
+        "description": "Statistics relating to the number of active or provisional KiwiSaver members as at the end of each financial year, by gender",
+        "identifier": "https://www.kiwisaver.govt.nz/statistics/annual/joining/",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "gender",
+            "number of active or provisional kiwisaver member"
+        ],
+        "publisher": {
+            "name": "Inland Revenue"
+        },
+        "contactPoint": {
+            "fn": "Inland Revenue",
+            "hasEmail": "open.data2@ird.govt.nz"
+        },
+        "landingPage": "https://www.kiwisaver.govt.nz/statistics/annual/joining/",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Social Policy",
+        "temporal": "06-2010/06-2019",
+        "distribution": [
+            {
+                "downloadURL": "https://www.kiwisaver.govt.nz/resources/c/4/c4453c804172d32dbc34fe6fe0111a70/Annual+-+Data.xls",
+                "format": "XLS",
+                "title": "Number of active or provisional KiwiSaver member, financial year, gender"
+            }
+        ]
+    },
+    {
         "title": "Number of child support customers and cash collection",
         "description": "The number of customers claiming child support per annum.",
         "identifier": "https://www.ird.govt.nz/aboutir/external-stats/social-policy/child-support-cust-and-cash/",
@@ -980,11 +1060,12 @@
             {
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/f/7/f7b4ec6b-89bf-4274-a147-8d428a480b6d/6.2-+child-support-csv.csv",
                 "format": "CSV",
-                "title": "Number of child support customers and cash collection"
+                "title": "Data in CSV format"
             },
             {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/5/c/5cd21169-210b-4895-b72f-eca5a2d6bbc0/6.2-+child-support.xlsx",
                 "format": "XLSX",
-                "title": "Number of child support customers and cash collection"
+                "title": "Data in EXCEL format"
             }
         ]
     },
@@ -1051,6 +1132,7 @@
                 "title": "Data in CSV format"
             },
             {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/d/2/d26ce924-465a-4293-a1d5-350323481443/number-of-cust-by-return-types.xlsx",
                 "format": "XLSX",
                 "title": "Data in EXCEL format"
             }
@@ -1093,6 +1175,7 @@
                 "title": "Data in CSV format"
             },
             {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/4/8/48d12aa2-26c6-4845-a5fe-a1ed81756328/num-gst-filers-turnoverband-07-19.xlsx",
                 "format": "XLSX",
                 "title": "Data in EXCEL format"
             }
@@ -1189,6 +1272,7 @@
                 "title": "Data in CSV format"
             },
             {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/3/c/3ca1048c-e68e-409c-a546-f16556a87725/11.7no-people-convicted.xlsx",
                 "format": "XLSX",
                 "title": "Data in EXCEL format"
             }
@@ -1222,6 +1306,7 @@
                 "title": "Data in CSV format"
             },
             {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/0/c/0cd160e2-75b7-4589-8365-2869870b1371/agents-by-location.xlsx",
                 "format": "XLSX",
                 "title": "Data in EXCEL format"
             }
@@ -1257,6 +1342,7 @@
                 "title": "Data in CSV format"
             },
             {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/a/1/a11e8cec-bf21-489a-a2d7-e76ef38592d1/11.6no-convictions.xlsx",
                 "format": "XLSX",
                 "title": "Data in EXCEL format"
             }
@@ -1303,6 +1389,7 @@
                 "title": "Data in CSV format"
             },
             {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/3/5/35b302cd-928c-4027-90c6-2f4e54b3d4b5/Adj+decn+stats+-+2008-2017.xls",
                 "format": "XLS",
                 "title": "Data in EXCEL format"
             }
@@ -1351,6 +1438,7 @@
                 "title": "Data in CSV format"
             },
             {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/b/f/bff9c528-5dc9-44ce-bede-43585fc1c024/7.3+-+overdue-debt-age-excel.xlsx",
                 "format": "XLSX",
                 "title": "Data in EXCEL format"
             }
@@ -1399,6 +1487,7 @@
                 "title": "Data in CSV format"
             },
             {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/2/c/2c2a288e-a4fc-4e9c-b9b7-d2408633e60e/7.4-+overdue-debt-value-bands-excel.xlsx",
                 "format": "XLSX",
                 "title": "Data in EXCEL format"
             }
@@ -1447,6 +1536,7 @@
                 "title": "Data in CSV format"
             },
             {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/e/8/e86e760b-5052-4286-9d06-d3d474eca5ce/7.2+-+overdue-debt-tax-type-excel.xlsx",
                 "format": "XLSX",
                 "title": "Data in EXCEL format"
             }
@@ -1495,6 +1585,7 @@
                 "title": "Data in CSV format"
             },
             {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/b/a/ba6f1502-0700-4cfa-b160-e4616baba62f/7.1+-+total-overdue-debt-excel.xlsx",
                 "format": "XLSX",
                 "title": "Total overdue debt"
             }
@@ -1558,6 +1649,7 @@
                 "title": "Data in CSV format"
             },
             {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/9/5/95fe07f5-e989-41cf-a848-ba048c9a478e/payments-full-on-time-liable-parents-17-excel.xlsx",
                 "format": "XLSX",
                 "title": "Data in EXCEL format"
             }
@@ -1601,6 +1693,7 @@
                 "title": "Data in CSV format"
             },
             {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/8/f/8f4ef787-285f-49a3-aeee-8cf5d7961485/percentage-payments-on-time-17-excel.xlsx",
                 "format": "XLSX",
                 "title": "Data in EXCEL format"
             }
@@ -1644,6 +1737,7 @@
                 "title": "Data in CSV format"
             },
             {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/a/6/a65e3b8d-ea1b-4a12-9ed6-8feffbcb1704/9.2-+returns-filed-on-time-excel.xlsx",
                 "format": "XLSX",
                 "title": "Data in EXCEL format"
             }
@@ -1785,6 +1879,7 @@
                 "title": "Data in CSV format"
             },
             {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/d/b/db702210-6d1b-4f3a-b34d-87a98d9db693/2.1-reg-cust-by-entity-type.xlsx",
                 "format": "XLSX",
                 "title": "Data in EXCEL format"
             }
@@ -1827,6 +1922,7 @@
                 "title": "Data in CSV format"
             },
             {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/5/0/502bda16-efb5-486b-8214-e4b3224fd90b/reg-customers-geo-area-17-excel.xlsx",
                 "format": "XLSX",
                 "title": "Data in EXCEL format"
             }
@@ -1866,11 +1962,12 @@
             {
                 "downloadURL": "https://www.classic.ird.govt.nz/resources/c/f/cfee5c35-4cb8-4748-9081-8b2d4136b2b5/registered-customer-group.csv",
                 "format": "CSV",
-                "title": "Registered customers by group"
+                "title": "Data in CSV format"
             },
             {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/b/3/b38c49df-e055-4195-a325-317d61fa256f/registered-customer-group.xlsx",
                 "format": "XLSX",
-                "title": "Registered customers by group"
+                "title": "Data in EXCEL format"
             }
         ]
     },
@@ -1907,6 +2004,7 @@
                 "title": "Data in CSV format"
             },
             {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/d/5/d52bffeb-8638-480f-92e5-08ed453188d7/returns-filed.xlsx",
                 "format": "XLSX",
                 "title": "Data in EXCEL format"
             }
@@ -1953,6 +2051,7 @@
                 "title": "Data in CSV format"
             },
             {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/9/b/9b027f2c-8b0a-4975-9bcf-3100a32ec58f/rev+collected.xlsx",
                 "format": "XLSX",
                 "title": "Data in EXCEL format"
             }
@@ -2052,6 +2151,7 @@
                 "title": "Data in CSV format"
             },
             {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/2/8/281bfd20-88e5-40bf-82fe-5a7d96e6350a/shortfall-penalties.xls",
                 "format": "XLS",
                 "title": "Data in EXCEL format"
             }
@@ -2549,6 +2649,27 @@
         ]
     },
     {
+        "title": "Student Loan Scheme 2017 Data Tables",
+        "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
+        "identifier": "https://www.educationcounts.govt.nz/publications/80898/2555/student-loan-scheme-annual-report-2017",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "individuals",
+            "payments and refunds",
+            "student loans"
+        ],
+        "publisher": {
+            "name": "Inland Revenue"
+        },
+        "contactPoint": {
+            "fn": "Inland Revenue",
+            "hasEmail": "open.data2@ird.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/student-loan-scheme-annual-report-2017",
+        "accrualPeriodicity": "R/P1Y",
+        "temporal": "01-2000/12-2017"
+    },
+    {
         "title": "Student Loan Scheme 2018 Data Tables",
         "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
         "identifier": "https://www.educationcounts.govt.nz/publications/tertiary_education/annual/student-loan-scheme-annual-report-2018",
@@ -2571,6 +2692,34 @@
         "distribution": [
             {
                 "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0007/192886/Data-Tables-2018.xlsx",
+                "format": "XLSX",
+                "title": "Data in EXCEL format"
+            }
+        ]
+    },
+    {
+        "title": "Student Loan Scheme 2019 Data Tables",
+        "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
+        "identifier": "https://www.educationcounts.govt.nz/publications/80898/2555/student-loan-scheme-annual-report-2019",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "individuals",
+            "payments and refunds",
+            "student loans"
+        ],
+        "publisher": {
+            "name": "Inland Revenue"
+        },
+        "contactPoint": {
+            "fn": "Inland Revenue",
+            "hasEmail": "open.data2@ird.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/student-loan-scheme-annual-report-2019",
+        "accrualPeriodicity": "R/P1Y",
+        "temporal": "01-2000/12-2019",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0006/196665/SLS_-Data-Tables-2019.xlsx",
                 "format": "XLSX",
                 "title": "Data in EXCEL format"
             }
@@ -2603,8 +2752,9 @@
                 "title": "Data in EXCEL format"
             },
             {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/5/7/5791319f-adee-45e3-8f77-0f9b7addfa09/claimed-through-payroll-giving-11-19.csv",
                 "format": "CSV",
-                "title": "Data in CSV"
+                "title": "Data in CSV format"
             }
         ]
     },
@@ -2651,6 +2801,7 @@
                 "title": "Data in CSV format"
             },
             {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/b/a/ba6f1502-0700-4cfa-b160-e4616baba62f/7.1+-+total-overdue-debt-excel.xlsx",
                 "format": "XLSX",
                 "title": "Data in EXCEL format"
             }
@@ -2675,6 +2826,7 @@
             "fn": "Inland Revenue",
             "hasEmail": "open.data2@ird.govt.nz"
         },
+        "landingPage": "https://www.classic.ird.govt.nz/aboutir/reports/releases/information-releases-index.html",
         "accrualPeriodicity": "R/P1Y",
         "theme": "Income Tax",
         "temporal": "06-2013/06-2015",
@@ -2683,10 +2835,6 @@
                 "downloadURL": "http://www.classic.ird.govt.nz/resources/6/4/6419f03f-e0d0-4aae-bcac-76c16100331f/download-unpaid-taxes-due-to-small-business-liquidation.xlsx",
                 "format": "XLS",
                 "title": "Data in EXCEL format"
-            },
-            {
-                "format": "PDF",
-                "title": "Data in PDF format"
             }
         ]
     },
@@ -2723,6 +2871,7 @@
                 "title": "Data in CSV format"
             },
             {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/5/5/556530ce-f945-4045-b3d2-804991ae6b17/return-filing-channels.xlsx",
                 "format": "XLSX",
                 "title": "Data in EXCEL format"
             }
@@ -2757,6 +2906,7 @@
                 "title": "Data in CSV format"
             },
             {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/c/8/c8eb6da3-e34e-45a1-aefa-7d0f2504eb39/wages-data-25-6-19.xlsx",
                 "format": "XLSX",
                 "title": "Data in EXCEL format"
             }
@@ -2790,6 +2940,7 @@
                 "title": "Data in CSV format"
             },
             {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/a/8/a8924a1d-aac4-4afe-996c-5140a46f8629/wff-average-entitlement.xlsx",
                 "format": "XLSX",
                 "title": "Data in EXCEL format"
             }
@@ -2823,6 +2974,7 @@
                 "title": "Data in CSV format"
             },
             {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/6/6/666b6323-230f-46f0-9d77-d3869d3c9d63/wff-number-of-families.xlsx",
                 "format": "XLS",
                 "title": "Data in EXCEL format"
             }
