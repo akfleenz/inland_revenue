@@ -825,7 +825,7 @@
     },
     {
         "title": "KiwiSaver statistics by year",
-        "description": "The data presented in this section shows selected KiwiSaver statistics for previous financial years.\\t\\t\\t\\t\\t\\t\\t\\t",
+        "description": "The data presented in this section shows selected KiwiSaver statistics for previous financial years.",
         "identifier": "https://www.kiwisaver.govt.nz/statistics/annual/",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
