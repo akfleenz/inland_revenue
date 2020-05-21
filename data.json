@@ -1,6 +1,6 @@
 {
       "@context": "https://www.data.govt.nz/catalog.jsonld",
-      "@id": "www.ird.govt.nz/data.json",
+      "@id": "https://ird.govt.nz/data.json",
       "@type": "dcat:Catalog",
       "conformsTo": "https://www.data.govt.nz/toolkit/schema",
       "dataset":[
@@ -676,30 +676,6 @@
         ]
     },
     {
-        "title": "Inland Revenue Data Inventory",
-        "description": "List of Inland Revenue's publicly available datasets",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "inventory",
-            "open data"
-        ],
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Open Data Enquiry",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "accrualPeriodicity": "irregular",
-        "distribution": [
-            {
-                "downloadURL": "https://raw.githubusercontent.com/akfleenz/inland_revenue/master/IR_inventory.csv",
-                "format": "CSV",
-                "title": "IR's inventory file"
-            }
-        ]
-    },
-    {
         "title": "IRD number of applications",
         "description": "This report provides information around IRD number applications by individuals and non-individuals. It includes information around the residency status of applicants and their reasons for applying (If this is for the purpose of purchasing property).",
         "license": "https://creativecommons.org/licenses/by/4.0/",
@@ -1084,7 +1060,7 @@
     {
         "title": "Number of GST filers by turnover band",
         "description": "The number of GST filers grouped by turnover band. The GST data only includes GST collected or refunded by Inland Revenue. GST collected on imports by the New Zealand Customs Service is not included.",
-        "identifier": "https://www.ird.govt.nz/aboutir/external-stats/revenue-refunds/gst-filers-by-turnover-band/",
+        "identifier": "https://www.ird.govt.nz/about-us/tax-statistics/revenue-refunds/number-gst-filers-turnover-band",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
             "clubsociety",
@@ -1107,18 +1083,18 @@
             "fn": "Inland Revenue",
             "hasEmail": "open.data2@ird.govt.nz"
         },
-        "landingPage": "https://www.ird.govt.nz/aboutir/external-stats/revenue-refunds/gst-filers-by-turnover-band/",
+        "landingPage": "https://www.ird.govt.nz/about-us/tax-statistics/revenue-refunds/number-gst-filers-turnover-band",
         "accrualPeriodicity": "R/P1Y",
         "theme": "Goods & Services Tax",
         "temporal": "03-2007/03-2019",
         "distribution": [
             {
-                "downloadURL": "https://www.classic.ird.govt.nz/resources/5/e/5eb8ecc8-48ef-4b39-b536-cbcc515cc654/gst-filers.csv",
+                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Revenue-and-refunds/Number-of-GST-filers-by-turnover-band/num-gst-filers-turnoverband-07-19-csv.csv",
                 "format": "CSV",
                 "title": "Data in CSV format"
             },
             {
-                "downloadURL": "https://www.classic.ird.govt.nz/resources/4/8/48d12aa2-26c6-4845-a5fe-a1ed81756328/num-gst-filers-turnoverband-07-19.xlsx",
+                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Revenue-and-refunds/Number-of-GST-filers-by-turnover-band/num-gst-filers-turnoverband-07-19.xlsx",
                 "format": "XLSX",
                 "title": "Data in EXCEL format"
             }
@@ -2858,7 +2834,7 @@
     {
         "title": "Working for Families Tax Credits - Average Entitlement",
         "description": "Working for Families Tax Credits is a collective term for a number of tax credits paid to families with dependent children. Data set includes the average entitlement amount. The data is based on March year entitlements assessed on tax returns and supplemented with the payments data from Work and Income recorded on their EMS schedule. (data considered incomplete until 31/03/18)",
-        "identifier": "https://www.ird.govt.nz/aboutir/external-stats/social-policy/wfftc/",
+        "identifier": "https://www.ird.govt.nz/about-us/tax-statistics/social-policy/wfftc",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
             "individuals",
@@ -2872,19 +2848,21 @@
             "fn": "Inland Revenue",
             "hasEmail": "open.data2@ird.govt.nz"
         },
-        "landingPage": "https://www.ird.govt.nz/aboutir/external-stats/social-policy/wfftc/",
+        "landingPage": "https://www.ird.govt.nz/about-us/tax-statistics/social-policy/wfftc",
         "accrualPeriodicity": "R/P1Y",
         "theme": "Working for Families Tax Credits",
         "temporal": "03-2007/03-2018",
         "distribution": [
             {
-                "downloadURL": "https://www.classic.ird.govt.nz/resources/d/5/d5485324-b3a4-4d03-b869-4effbe1ac772/6.1b+wfftc-average-entitlement_csv.csv",
+                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Social-policy/Working-for-Families-Tax-Credits-2001-to-2018/wff-average-entitlement-csv.csv",
                 "format": "CSV",
+                "size": "1KB",
                 "title": "Data in CSV format"
             },
             {
-                "downloadURL": "https://www.classic.ird.govt.nz/resources/a/8/a8924a1d-aac4-4afe-996c-5140a46f8629/wff-average-entitlement.xlsx",
+                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Social-policy/Working-for-Families-Tax-Credits-2001-to-2018/wff-average-entitlement.xlsx",
                 "format": "XLSX",
+                "size": "13KB",
                 "title": "Data in EXCEL format"
             }
         ]
@@ -2892,7 +2870,7 @@
     {
         "title": "Working for Families Tax Credits - number of families",
         "description": "Working for Families Tax Credits is a collective term for a number of tax credits paid to families with dependent children. Data set includes the number of families involved. The data is based on March year entitlements, assessed on tax returns and supplemented with the payments data from Work and Income recorded on their EMS schedule. (This data is considered incomplete until 31/03/18). Types of Working for Families Tax Credits included are Family Tax Credit, In-work tax credit, Minimum family tax credit, Parental tax credit.",
-        "identifier": "https://www.ird.govt.nz/aboutir/external-stats/social-policy/wfftc/",
+        "identifier": "https://www.ird.govt.nz/about-us/tax-statistics/social-policy/wfftc",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "keyword": [
             "individuals",
@@ -2906,19 +2884,21 @@
             "fn": "Inland Revenue",
             "hasEmail": "open.data2@ird.govt.nz"
         },
-        "landingPage": "https://www.ird.govt.nz/aboutir/external-stats/social-policy/wfftc/",
+        "landingPage": "https://www.ird.govt.nz/about-us/tax-statistics/social-policy/wfftc",
         "accrualPeriodicity": "R/P1Y",
         "theme": "Working for Families Tax Credits",
         "temporal": "03-2007/03-2016",
         "distribution": [
             {
-                "downloadURL": "https://www.classic.ird.govt.nz/resources/a/a/aa9d466f-1e21-4da8-a91d-0aaba70dd05a/6.1a+wfftc-number-familes_csv.csv",
+                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Social-policy/Working-for-Families-Tax-Credits-2001-to-2018/wff-number-of-families-csv.csv",
                 "format": "CSV",
+                "size": "1KB",
                 "title": "Data in CSV format"
             },
             {
-                "downloadURL": "https://www.classic.ird.govt.nz/resources/6/6/666b6323-230f-46f0-9d77-d3869d3c9d63/wff-number-of-families.xlsx",
-                "format": "XLS",
+                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Social-policy/Working-for-Families-Tax-Credits-2001-to-2018/wff-number-of-families.xlsx",
+                "format": "XLSX",
+                "size": "13KB",
                 "title": "Data in EXCEL format"
             }
         ]
