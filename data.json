@@ -5,416 +5,6 @@
       "conformsTo": "https://www.data.govt.nz/toolkit/schema",
       "dataset":[
     {
-        "title": "IDI Data Dictionary - IR tax data",
-        "description": "Documents the content of the datasets the Inland Revenue  provides to Statistics New Zealand to use in the Integrated Data Infrastructure (IDI).",
-        "identifier": "http://archive.stats.govt.nz/browse_for_stats/snapshots-of-nz/integrated-data-infrastructure/idi-data.aspx",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "data",
-            "dictionary",
-            "idi",
-            "research",
-            "tax"
-        ],
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Stats NZ IDI team",
-            "hasEmail": "access2microdata@stats.govt.nz"
-        },
-        "landingPage": "http://archive.stats.govt.nz/browse_for_stats/snapshots-of-nz/integrated-data-infrastructure/idi-data.aspx",
-        "accrualPeriodicity": "R/P1Y",
-        "theme": "Customer, PAYE",
-        "temporal": "04-1999/09-2015",
-        "distribution": [
-            {
-                "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/browse-categories/snapshots-of-nz/integrated-data-infrastructure/IDI%20data%20dictionaries/idi-dd-irtax-sep-15.pdf",
-                "format": "PDF",
-                "title": "IDI Data Dictionary-IR tax data"
-            }
-        ]
-    },
-    {
-        "title": "Number of GST filers by turnover band",
-        "description": "The number of GST filers grouped by turnover band. The GST data only includes GST collected or refunded by Inland Revenue. GST collected on imports by the New Zealand Customs Service is not included.",
-        "identifier": "https://www.ird.govt.nz/about-us/tax-statistics/revenue-refunds/number-gst-filers-turnover-band",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "clubsociety",
-            "company",
-            "diplomatic mission",
-            "goods  services tax",
-            "government department",
-            "individuals",
-            "maori authority",
-            "partnership",
-            "payments and refunds",
-            "super fund",
-            "trustestate",
-            "unit trust"
-        ],
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Inland Revenue",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "landingPage": "https://www.ird.govt.nz/about-us/tax-statistics/revenue-refunds/number-gst-filers-turnover-band",
-        "accrualPeriodicity": "R/P1Y",
-        "theme": "Goods & Services Tax",
-        "temporal": "03-2007/03-2019",
-        "distribution": [
-            {
-                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Revenue-and-refunds/Number-of-GST-filers-by-turnover-band/num-gst-filers-turnoverband-07-19-csv.csv",
-                "format": "CSV",
-                "title": "Data in CSV format"
-            },
-            {
-                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Revenue-and-refunds/Number-of-GST-filers-by-turnover-band/num-gst-filers-turnoverband-07-19.xlsx",
-                "format": "XLSX",
-                "title": "Data in EXCEL format"
-            }
-        ]
-    },
-    {
-        "title": "Student Loan Scheme 2006 Data Tables",
-        "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
-        "identifier": "https://www.educationcounts.govt.nz/publications/80898/2555/5651",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "individuals",
-            "payments and refunds",
-            "student loans"
-        ],
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Inland Revenue",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/5651",
-        "accrualPeriodicity": "R/P1Y",
-        "temporal": "01-2000/12-2006",
-        "distribution": [
-            {
-                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/file/0009/7398/Data-Student-Loan-Scheme-Annual-Report-2006.xls",
-                "format": "XLS",
-                "title": "Data in EXCEL format"
-            }
-        ]
-    },
-    {
-        "title": "Student Loan Scheme 2007 Data Tables",
-        "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
-        "identifier": "https://www.educationcounts.govt.nz/publications/80898/2555/17229",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "individuals",
-            "payments and refunds",
-            "student loans"
-        ],
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Inland Revenue",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/17229",
-        "accrualPeriodicity": "R/P1Y",
-        "temporal": "01-1993/12-2007",
-        "distribution": [
-            {
-                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0017/17243/Data-Student-Loan-Scheme-Annual-Report-2007.xls",
-                "format": "XLS",
-                "title": "Data in EXCEL format"
-            }
-        ]
-    },
-    {
-        "title": "Student Loan Scheme 2008 Data Tables",
-        "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
-        "identifier": "https://www.educationcounts.govt.nz/publications/80898/2555/33499/2",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "individuals",
-            "payments and refunds",
-            "student loans"
-        ],
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Inland Revenue",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/33499/2",
-        "accrualPeriodicity": "R/P1Y",
-        "temporal": "01-1994/12-2008",
-        "distribution": [
-            {
-                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0006/43377/Data-Student-Loan-Scheme-Annual-Report-2008.xls",
-                "format": "XLS",
-                "title": "Data in EXCEL format"
-            }
-        ]
-    },
-    {
-        "title": "Student Loan Scheme 2009 Data Tables",
-        "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
-        "identifier": "https://www.educationcounts.govt.nz/publications/80898/2555/58406/2",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "individuals",
-            "payments and refunds",
-            "student loans"
-        ],
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Inland Revenue",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/58406/2",
-        "accrualPeriodicity": "R/P1Y",
-        "temporal": "01-2000/12-2009",
-        "distribution": [
-            {
-                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0003/63156/SLS-DataTables2009-30112009.xls",
-                "format": "XLS",
-                "title": "Data in EXCEL format"
-            }
-        ]
-    },
-    {
-        "title": "Student Loan Scheme 2011 Data Tables",
-        "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
-        "identifier": "https://www.educationcounts.govt.nz/publications/80898/2555/student-loan-scheme-annual-report-2011",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "individuals",
-            "payments and refunds",
-            "student loans"
-        ],
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Inland Revenue",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/student-loan-scheme-annual-report-2011",
-        "accrualPeriodicity": "R/P1Y",
-        "temporal": "01-2000/12-2011",
-        "distribution": [
-            {
-                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0017/105551/Student-Loan-Scheme-Data-2011.xls",
-                "format": "XLS",
-                "title": "Data in EXCEL format"
-            }
-        ]
-    },
-    {
-        "title": "Student Loan Scheme 2012 Data Tables",
-        "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
-        "identifier": "https://www.educationcounts.govt.nz/publications/80898/2555/114630",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "individuals",
-            "payments and refunds",
-            "student loans"
-        ],
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Inland Revenue",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/114630",
-        "accrualPeriodicity": "R/P1Y",
-        "temporal": "01-2000/12-2012",
-        "distribution": [
-            {
-                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0003/114636/Data-Student-Loan-Scheme-Annual-Report-2012.xls",
-                "format": "XLS",
-                "title": "Student Loan Scheme 2012 Data Tables"
-            }
-        ]
-    },
-    {
-        "title": "Student Loan Scheme 2013 Data Tables",
-        "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
-        "identifier": "https://www.educationcounts.govt.nz/publications/80898/2555/student-loan-scheme-annual-report-2013",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "individuals",
-            "payments and refunds",
-            "student loans"
-        ],
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Inland Revenue",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/student-loan-scheme-annual-report-2013",
-        "accrualPeriodicity": "R/P1Y",
-        "temporal": "01-2000/12-2013",
-        "distribution": [
-            {
-                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0003/144570/2013-Student-Loan-Scheme-Data.xlsx",
-                "format": "XLS",
-                "title": "Data in EXCEL format"
-            }
-        ]
-    },
-    {
-        "title": "Student Loan Scheme 2014 Data Tables",
-        "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
-        "identifier": "https://www.educationcounts.govt.nz/publications/80898/2555/student-loan-scheme-annual-report-2014",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "individuals",
-            "payments and refunds",
-            "student loans"
-        ],
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Inland Revenue",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/student-loan-scheme-annual-report-2014",
-        "accrualPeriodicity": "R/P1Y",
-        "temporal": "01-2000/12-2014",
-        "distribution": [
-            {
-                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0005/164948/2014-Student-Loan-Scheme-Annual-Report.xlsx",
-                "format": "XLS",
-                "title": "Data in EXCEL format"
-            }
-        ]
-    },
-    {
-        "title": "Student Loan Scheme 2015 Data Tables",
-        "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
-        "identifier": "https://www.educationcounts.govt.nz/publications/80898/2555/student-loan-scheme-annual-report-2015",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "individuals",
-            "payments and refunds",
-            "student loans"
-        ],
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Inland Revenue",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/student-loan-scheme-annual-report-2015",
-        "accrualPeriodicity": "R/P1Y",
-        "temporal": "01-2000/12-2015",
-        "distribution": [
-            {
-                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0013/170230/2015-Data-tables.xlsx",
-                "format": "XLS",
-                "title": "Data in EXCEL format"
-            }
-        ]
-    },
-    {
-        "title": "Student Loan Scheme 2016 Data Tables",
-        "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
-        "identifier": "https://www.educationcounts.govt.nz/publications/80898/2555/student-loan-scheme-annual-report-2016",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "individuals",
-            "payments and refunds",
-            "student loans"
-        ],
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Inland Revenue",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/student-loan-scheme-annual-report-2016",
-        "accrualPeriodicity": "R/P1Y",
-        "temporal": "01-2000/12-2016",
-        "distribution": [
-            {
-                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0017/180710/Student-Loan-Scheme-2016-Web-tables-141216.xlsx",
-                "format": "XLS",
-                "title": "Data in EXCEL format"
-            }
-        ]
-    },
-    {
-        "title": "Student Loan Scheme 2017 Data Tables",
-        "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
-        "identifier": "https://www.educationcounts.govt.nz/publications/series/student_loan_scheme_annual_reports/student-loan-scheme-annual-report-2017",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "individuals",
-            "payments and refunds",
-            "student loans"
-        ],
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Inland Revenue",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "landingPage": "https://www.educationcounts.govt.nz/publications/series/student_loan_scheme_annual_reports/student-loan-scheme-annual-report-2017",
-        "accrualPeriodicity": "R/P1Y",
-        "temporal": "01-2000/12-2017",
-        "distribution": [
-            {
-                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/pdf_file/0006/183705/Student-Loan-Annual-Report-2016-17.pdf",
-                "format": "PDF",
-                "title": "Student Loan Scheme 2017 Full Report"
-            }
-        ]
-    },
-    {
-        "title": "Student Loan Scheme 2019 Data Tables",
-        "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
-        "identifier": "https://www.educationcounts.govt.nz/publications/80898/2555/student-loan-scheme-annual-report-2019",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "individuals",
-            "payments and refunds",
-            "student loans"
-        ],
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Inland Revenue",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/student-loan-scheme-annual-report-2019",
-        "accrualPeriodicity": "R/P1Y",
-        "temporal": "01-2000/12-2019",
-        "distribution": [
-            {
-                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0006/196665/SLS_-Data-Tables-2019.xlsx",
-                "format": "XLSX",
-                "title": "Data in EXCEL format"
-            }
-        ]
-    },
-    {
         "title": "Active customers by entity type",
         "description": "Shows the number of active customers grouped by entity type.",
         "identifier": "https://www.ird.govt.nz/about-us/archived-statistics/inland-revenue-customers/entity-type",
@@ -499,115 +89,6 @@
                 "title": "Data in EXCEL format"
             }
         ]
-    },
-    {
-        "title": "Regional statistics for all customers",
-        "description": "A regional break-down for different customer categories, such as \"registered customers\", \"individuals\", and \"individuals aged 16 or over\".",
-        "identifier": "https://www.ird.govt.nz/about-us/archived-statistics/regional-statistics",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "area outside regional councils",
-            "auckland",
-            "bay of plenty",
-            "business",
-            "businesses",
-            "canterbury",
-            "entities",
-            "far north",
-            "gisborne",
-            "gst filers",
-            "gstregistered",
-            "hawkes bay",
-            "individuals",
-            "location",
-            "manawatuwanganui",
-            "marlborough",
-            "micro business individuals",
-            "nelson",
-            "new zealand",
-            "nonbusiness individuals",
-            "northland",
-            "otago",
-            "regional council",
-            "registered customers",
-            "southland",
-            "student loan holders",
-            "taranaki",
-            "tasman",
-            "territorial authorities",
-            "unknown location",
-            "waikato",
-            "wellington",
-            "west coast"
-        ],
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Inland Revenue",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "landingPage": "https://www.ird.govt.nz/about-us/archived-statistics/regional-statistics",
-        "accrualPeriodicity": "R/P1Y",
-        "theme": "PAYE, Goods & Services Tax, Income Tax, Imputation Taxes, Withholding Tax, Child Support, Working for Families Tax Credits, Student Loans, Fringe Benefit Tax, Customer",
-        "temporal": "04-2015/03-2016",
-        "distribution": [
-            {
-                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Regional-tax-statistics/all_customers.csv",
-                "format": "CSV",
-                "title": "Regional statistics for all customers"
-            },
-            {
-                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Regional-tax-statistics/values.csv",
-                "format": "CSV",
-                "title": "Regional tax statistics values"
-            },
-            {
-                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Regional-tax-statistics/individuals.csv",
-                "format": "CSV",
-                "title": "\nRegional statistics for individuals 2015 to 2016"
-            },
-            {
-                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Regional-tax-statistics/business-individuals.csv",
-                "format": "CSV",
-                "title": "Regional statistics for business individuals 2015 to 2016"
-            },
-            {
-                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Regional-tax-statistics/non-business-individuals.csv",
-                "format": "CSV",
-                "title": "Regional statistics for non-business individuals 2015 to 2016"
-            },
-            {
-                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Regional-tax-statistics/entities.csv",
-                "format": "CSV",
-                "title": "Regional statistics for entities 2015 to 2016\n"
-            },
-            {
-                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Regional-tax-statistics/businesses.csv",
-                "format": "CSV",
-                "title": "Regional statistics for businesses 2015 to 2016"
-            }
-        ]
-    },
-    {
-        "title": "Number of GST filers by turnover band 2007 to 2019",
-        "description": "Turnover is calculated from GST returns as the sum of gross sales in the year ended 31 March. For a two-monthly filer, this would mean the sum of gross sales on six successive GST returns, with the last return being for the period ending 31 March. The GST data only include GST collected or refunded by Inland Revenue. GST collected on imports by the New Zealand Customs Service is not included.",
-        "identifier": "https://www.ird.govt.nz/about-us/tax-statistics/revenue-refunds/number-gst-filers-turnover-band",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "gst filers",
-            "turnover band"
-        ],
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Inland Revenue",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "landingPage": "https://www.ird.govt.nz/about-us/tax-statistics/revenue-refunds/number-gst-filers-turnover-band",
-        "accrualPeriodicity": "R/P1Y",
-        "theme": "Goods & Services Tax"
     },
     {
         "title": "Amount of KiwiSaver funds withdrawn by reasons 2010-2020",
@@ -914,11 +395,37 @@
                 "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Revenue-and-refunds/Donation-tax-credit-2004-to-2018/claimed-through-payroll-giving-11-19.xlsx",
                 "format": "XLSX",
                 "title": "Tax credits claimed through payroll giving via employers (XLSX)"
-            },
+            }
+        ]
+    },
+    {
+        "title": "IDI Data Dictionary - IR tax data",
+        "description": "Documents the content of the datasets the Inland Revenue  provides to Statistics New Zealand to use in the Integrated Data Infrastructure (IDI).",
+        "identifier": "http://archive.stats.govt.nz/browse_for_stats/snapshots-of-nz/integrated-data-infrastructure/idi-data.aspx",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "data",
+            "dictionary",
+            "idi",
+            "research",
+            "tax"
+        ],
+        "publisher": {
+            "name": "Inland Revenue"
+        },
+        "contactPoint": {
+            "fn": "Stats NZ IDI team",
+            "hasEmail": "access2microdata@stats.govt.nz"
+        },
+        "landingPage": "http://archive.stats.govt.nz/browse_for_stats/snapshots-of-nz/integrated-data-infrastructure/idi-data.aspx",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Customer, PAYE",
+        "temporal": "04-1999/09-2015",
+        "distribution": [
             {
-                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Revenue-and-refunds/Donation-tax-credit-2004-to-2018/claimed-through-payroll-giving-11-19-csv.csv",
-                "format": "CSV",
-                "title": "Tax credits claimed through payroll giving via employers (CSV)"
+                "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/browse-categories/snapshots-of-nz/integrated-data-infrastructure/IDI%20data%20dictionaries/idi-dd-irtax-sep-15.pdf",
+                "format": "PDF",
+                "title": "IDI Data Dictionary-IR tax data"
             }
         ]
     },
@@ -953,6 +460,14 @@
                 "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Revenue-and-refunds/Income-distributions-of-individual-customers-2001-to-2018/Thousand-dollar-bands-2001-2018-July-2019-csv.csv",
                 "format": "CSV",
                 "title": "Income distributions of individual customers (CSV)"
+            },
+            null,
+            null,
+            null,
+            {
+                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Revenue-and-refunds/Donation-tax-credit-2004-to-2018/claimed-through-payroll-giving-11-19-csv.csv",
+                "format": "CSV",
+                "title": "Tax credits claimed through payroll giving via employers (CSV)"
             }
         ]
     },
@@ -989,6 +504,92 @@
                 "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Revenue-and-refunds/Income-of-trusts-IR6-returns-2001-to-2018/trusts-data-july-2019.xlsx",
                 "format": "XLSX",
                 "title": "Income of trusts IR6 returns"
+            }
+        ]
+    },
+    {
+        "title": "Inland Revenue Commissioner's Expenses",
+        "description": "Total expenses attributed to Inland Revenue's commissioner",
+        "identifier": "https://www.ird.govt.nz/about-us/publications/annual-corporate-reports/commissioners-expenses",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "corporate data",
+            "financial reports and measures"
+        ],
+        "publisher": {
+            "name": "Inland Revenue"
+        },
+        "contactPoint": {
+            "fn": "Inland Revenue",
+            "hasEmail": "open.data2@ird.govt.nz"
+        },
+        "landingPage": "https://www.ird.govt.nz/about-us/publications/annual-corporate-reports/commissioners-expenses",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Corporate Data, Financial reports and measures",
+        "temporal": "07-2015/06-2019",
+        "distribution": [
+            {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/b/3/b354daad-0283-44b7-9684-89a8b79e902f/commissioners-expenses-july-2015-June-2016.xlsx",
+                "format": "XLSX",
+                "title": "Expenses July 2015 to June 2016"
+            },
+            {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/2/4/241989ca-bd8f-47ad-8c1c-35c4ebf8b481/commissioners-expenses-july-2016-june-2017.xlsx",
+                "format": "XLSX",
+                "title": "Expenses July 2016 to June 2017"
+            },
+            {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/d/c/dc27fd38-d7e3-4de1-b54a-2e29fcada02c/commissioners-expenses-july-2017-june-2018.xlsx",
+                "format": "XLSX",
+                "title": "Expenses July 2017 to June 2018"
+            },
+            {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/b/7/b7ddc35f-0b64-46d7-9169-20034b2df91c/commissioners-expenses-2019-FINAL.xlsx",
+                "format": "XLSX",
+                "title": "Expenses July 2018 to June 2019"
+            }
+        ]
+    },
+    {
+        "title": "Inland Revenue Commissioner's Expenses",
+        "description": "Total expenses attributed to Inland Revenue's commissioner",
+        "identifier": "https://www.ird.govt.nz/about-us/publications/annual-corporate-reports/commissioners-expenses",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "corporate data",
+            "financial reports and measures"
+        ],
+        "publisher": {
+            "name": "Inland Revenue"
+        },
+        "contactPoint": {
+            "fn": "Inland Revenue",
+            "hasEmail": "open.data2@ird.govt.nz"
+        },
+        "landingPage": "https://www.ird.govt.nz/about-us/publications/annual-corporate-reports/commissioners-expenses",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Corporate Data, Financial reports and measures",
+        "temporal": "07-2015/06-2019",
+        "distribution": [
+            {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/b/3/b354daad-0283-44b7-9684-89a8b79e902f/commissioners-expenses-july-2015-June-2016.xlsx",
+                "format": "XLSX",
+                "title": "Expenses July 2015 to June 2016"
+            },
+            {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/2/4/241989ca-bd8f-47ad-8c1c-35c4ebf8b481/commissioners-expenses-july-2016-june-2017.xlsx",
+                "format": "XLSX",
+                "title": "Expenses July 2016 to June 2017"
+            },
+            {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/d/c/dc27fd38-d7e3-4de1-b54a-2e29fcada02c/commissioners-expenses-july-2017-june-2018.xlsx",
+                "format": "XLSX",
+                "title": "Expenses July 2017 to June 2018"
+            },
+            {
+                "downloadURL": "https://www.classic.ird.govt.nz/resources/b/7/b7ddc35f-0b64-46d7-9169-20034b2df91c/commissioners-expenses-2019-FINAL.xlsx",
+                "format": "XLSX",
+                "title": "Expenses July 2018 to June 2019"
             }
         ]
     },
@@ -1117,6 +718,82 @@
         ]
     },
     {
+        "title": "Members joining KiwiSaver - statistics",
+        "description": "Statistics relating to members joining KiwiSaver",
+        "identifier": "https://www.ird.govt.nz/about-us/tax-statistics/kiwisaver/joining",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "kiwisaver",
+            "membership"
+        ],
+        "publisher": {
+            "name": "Inland Revenue"
+        },
+        "contactPoint": {
+            "fn": "Inland Revenue",
+            "hasEmail": "open.data2@ird.govt.nz"
+        },
+        "landingPage": "https://www.ird.govt.nz/about-us/tax-statistics/kiwisaver/joining",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Social Policy",
+        "temporal": "06-2010/03-2020",
+        "distribution": [
+            {
+                "downloadURL": "https://www.ird.govt.nz/about-us/tax-statistics/kiwisaver/joining/enrolment-method-opt-out-rates",
+                "format": "HTML",
+                "title": "KiwiSaver enrolment methods and opt out rates"
+            },
+            {
+                "downloadURL": "https://www.ird.govt.nz/about-us/tax-statistics/kiwisaver/joining/member-demographics",
+                "format": "HTML",
+                "title": "KiwiSaver member demographics"
+            }
+        ]
+    },
+    {
+        "title": "Net GST by turnover band",
+        "description": "Net total GST by turnover band. The following GST data is based on information from GST returns and is different from the accrual data presented in the \"Tax revenue\" section.",
+        "identifier": "https://www.ird.govt.nz/about-us/tax-statistics/revenue-refunds/net-gst-turnover-band",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "clubsociety",
+            "company",
+            "diplomatic mission",
+            "goods  services tax",
+            "government department",
+            "individuals",
+            "maori authority",
+            "partnership",
+            "payments and refunds",
+            "super fund",
+            "trustestate",
+            "unit trust"
+        ],
+        "publisher": {
+            "name": "Inland Revenue"
+        },
+        "contactPoint": {
+            "fn": "Inland Revenue",
+            "hasEmail": "open.data2@ird.govt.nz"
+        },
+        "landingPage": "https://www.ird.govt.nz/about-us/tax-statistics/revenue-refunds/net-gst-turnover-band",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Goods & Services Tax",
+        "temporal": "03-2007/03-2019",
+        "distribution": [
+            {
+                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Revenue-and-refunds/Net-GST-by-turnover-band/net-gst-band-19.xlsx",
+                "format": "CSV",
+                "title": "Net GST by turnover band (CSV)"
+            },
+            {
+                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Revenue-and-refunds/Net-GST-by-turnover-band/net-gst-band-19.xlsx",
+                "format": "XLSX",
+                "title": "Net GST by turnover band (XLSX)"
+            }
+        ]
+    },
+    {
         "title": "Number of child support customers and cash collection",
         "description": "The number of customers claiming child support per annum.",
         "identifier": "https://www.ird.govt.nz/about-us/tax-statistics/social-policy/child-support-customers-collection",
@@ -1220,6 +897,69 @@
         ]
     },
     {
+        "title": "Number of GST filers by turnover band",
+        "description": "The number of GST filers grouped by turnover band. The GST data only includes GST collected or refunded by Inland Revenue. GST collected on imports by the New Zealand Customs Service is not included.",
+        "identifier": "https://www.ird.govt.nz/about-us/tax-statistics/revenue-refunds/number-gst-filers-turnover-band",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "clubsociety",
+            "company",
+            "diplomatic mission",
+            "goods  services tax",
+            "government department",
+            "individuals",
+            "maori authority",
+            "partnership",
+            "payments and refunds",
+            "super fund",
+            "trustestate",
+            "unit trust"
+        ],
+        "publisher": {
+            "name": "Inland Revenue"
+        },
+        "contactPoint": {
+            "fn": "Inland Revenue",
+            "hasEmail": "open.data2@ird.govt.nz"
+        },
+        "landingPage": "https://www.ird.govt.nz/about-us/tax-statistics/revenue-refunds/number-gst-filers-turnover-band",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Goods & Services Tax",
+        "temporal": "03-2007/03-2019",
+        "distribution": [
+            {
+                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Revenue-and-refunds/Number-of-GST-filers-by-turnover-band/num-gst-filers-turnoverband-07-19-csv.csv",
+                "format": "CSV",
+                "title": "Data in CSV format"
+            },
+            {
+                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Revenue-and-refunds/Number-of-GST-filers-by-turnover-band/num-gst-filers-turnoverband-07-19.xlsx",
+                "format": "XLSX",
+                "title": "Data in EXCEL format"
+            }
+        ]
+    },
+    {
+        "title": "Number of GST filers by turnover band 2007 to 2019",
+        "description": "Turnover is calculated from GST returns as the sum of gross sales in the year ended 31 March. For a two-monthly filer, this would mean the sum of gross sales on six successive GST returns, with the last return being for the period ending 31 March. The GST data only include GST collected or refunded by Inland Revenue. GST collected on imports by the New Zealand Customs Service is not included.",
+        "identifier": "https://www.ird.govt.nz/about-us/tax-statistics/revenue-refunds/number-gst-filers-turnover-band",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "gst filers",
+            "turnover band"
+        ],
+        "publisher": {
+            "name": "Inland Revenue"
+        },
+        "contactPoint": {
+            "fn": "Inland Revenue",
+            "hasEmail": "open.data2@ird.govt.nz"
+        },
+        "landingPage": "https://www.ird.govt.nz/about-us/tax-statistics/revenue-refunds/number-gst-filers-turnover-band",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Goods & Services Tax"
+    },
+    {
         "title": "Number of KiwiSaver closed account 2010-2019",
         "description": "Statistics on the number of members at the end of each financial year who have closed their account and  withdrawn their savings due to retirement, permanent emigration, death or serious illness",
         "identifier": "https://www.ird.govt.nz/about-us/tax-statistics/kiwisaver/exiting",
@@ -1280,6 +1020,45 @@
             },
             {
                 "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Tax-data---audit-and-legal-issues/117no-people-convicted.xlsx",
+                "format": "XLSX",
+                "title": "Data in EXCEL format"
+            }
+        ]
+    },
+    {
+        "title": "Number of returns filed 2007-2016",
+        "description": "The number of returns filed and processed during the tax year regardless of their return period.",
+        "identifier": "https://www.ird.govt.nz/about-us/archived-statistics/tax-returns/returns-filed",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "company",
+            "filing",
+            "fringe benefit tax",
+            "goods and services tax",
+            "income tax",
+            "individuals",
+            "paye",
+            "trustestate"
+        ],
+        "publisher": {
+            "name": "Inland Revenue"
+        },
+        "contactPoint": {
+            "fn": "Inland Revenue",
+            "hasEmail": "open.data2@ird.govt.nz"
+        },
+        "landingPage": "https://www.ird.govt.nz/about-us/archived-statistics/tax-returns/returns-filed",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Income Tax, Goods and Services Tax, Fringe Benefit Tax, PAYE",
+        "temporal": "03-2007/03-2017",
+        "distribution": [
+            {
+                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Tax-Returns/Returns-filed-2007-to-2016-csv.csv",
+                "format": "CSV",
+                "title": "Data in CSV format"
+            },
+            {
+                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Tax-Returns/Returns-filed-2007-to-2016-xls.xlsx",
                 "format": "XLSX",
                 "title": "Data in EXCEL format"
             }
@@ -1672,6 +1451,146 @@
         ]
     },
     {
+        "title": "Regional break-down by tax type",
+        "description": "Regional break-downs for variables such as overall sales and income and debt values, broken down by tax type",
+        "identifier": "https://www.ird.govt.nz/about-us/archived-statistics/regional-statistics",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "area outside regional councils",
+            "auckland",
+            "bay of plenty",
+            "canterbury",
+            "debt",
+            "far north",
+            "gisborne",
+            "gst debt",
+            "hawkes bay",
+            "inc debt",
+            "manawatuwanganui",
+            "marlborough",
+            "nelson",
+            "northland",
+            "otago",
+            "overall total sales  income",
+            "regional council",
+            "southland",
+            "taranaki",
+            "tasman",
+            "territorial authorities",
+            "unknown location",
+            "waikato",
+            "wellington",
+            "west coast"
+        ],
+        "publisher": {
+            "name": "Inland Revenue"
+        },
+        "contactPoint": {
+            "fn": "Inland Revenue",
+            "hasEmail": "open.data2@ird.govt.nz"
+        },
+        "landingPage": "https://www.ird.govt.nz/about-us/archived-statistics/regional-statistics",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "PAYE, Goods & Services Tax, Income Tax, Imputation Taxes, Withholding Tax, Child Support, Working for Families Tax Credits, Student Loans, Fringe Benefit Tax, Customer",
+        "temporal": "04-2015/03-2016",
+        "distribution": [
+            {
+                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Regional-tax-statistics/values.csv",
+                "format": "CSV",
+                "title": "Data in CSV format"
+            }
+        ]
+    },
+    {
+        "title": "Regional statistics for all customers",
+        "description": "A regional break-down for different customer categories, such as \"registered customers\", \"individuals\", and \"individuals aged 16 or over\".",
+        "identifier": "https://www.ird.govt.nz/about-us/archived-statistics/regional-statistics",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "area outside regional councils",
+            "auckland",
+            "bay of plenty",
+            "business",
+            "businesses",
+            "canterbury",
+            "entities",
+            "far north",
+            "gisborne",
+            "gst filers",
+            "gstregistered",
+            "hawkes bay",
+            "individuals",
+            "location",
+            "manawatuwanganui",
+            "marlborough",
+            "micro business individuals",
+            "nelson",
+            "new zealand",
+            "nonbusiness individuals",
+            "northland",
+            "otago",
+            "regional council",
+            "registered customers",
+            "southland",
+            "student loan holders",
+            "taranaki",
+            "tasman",
+            "territorial authorities",
+            "unknown location",
+            "waikato",
+            "wellington",
+            "west coast"
+        ],
+        "publisher": {
+            "name": "Inland Revenue"
+        },
+        "contactPoint": {
+            "fn": "Inland Revenue",
+            "hasEmail": "open.data2@ird.govt.nz"
+        },
+        "landingPage": "https://www.ird.govt.nz/about-us/archived-statistics/regional-statistics",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "PAYE, Goods & Services Tax, Income Tax, Imputation Taxes, Withholding Tax, Child Support, Working for Families Tax Credits, Student Loans, Fringe Benefit Tax, Customer",
+        "temporal": "04-2015/03-2016",
+        "distribution": [
+            {
+                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Regional-tax-statistics/all_customers.csv",
+                "format": "CSV",
+                "title": "Regional statistics for all customers"
+            },
+            {
+                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Regional-tax-statistics/values.csv",
+                "format": "CSV",
+                "title": "Regional tax statistics values"
+            },
+            {
+                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Regional-tax-statistics/individuals.csv",
+                "format": "CSV",
+                "title": "\nRegional statistics for individuals 2015 to 2016"
+            },
+            {
+                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Regional-tax-statistics/business-individuals.csv",
+                "format": "CSV",
+                "title": "Regional statistics for business individuals 2015 to 2016"
+            },
+            {
+                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Regional-tax-statistics/non-business-individuals.csv",
+                "format": "CSV",
+                "title": "Regional statistics for non-business individuals 2015 to 2016"
+            },
+            {
+                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Regional-tax-statistics/entities.csv",
+                "format": "CSV",
+                "title": "Regional statistics for entities 2015 to 2016\n"
+            },
+            {
+                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Regional-tax-statistics/businesses.csv",
+                "format": "CSV",
+                "title": "Regional statistics for businesses 2015 to 2016"
+            }
+        ]
+    },
+    {
         "title": "Regional tax statistics 2016",
         "description": "Included are categories for individuals and non-individual entities. The tables present the data as percentages of appropriate columns in the \"Customers\" table, Regional tax statistics, 'all customers', 'values', 'individuals', 'business individuals', 'non-business individuals', 'entities', 'businesses'",
         "identifier": "https://www.ird.govt.nz/about-us/archived-statistics/regional-statistics",
@@ -1849,45 +1768,6 @@
         ]
     },
     {
-        "title": "Number of returns filed 2007-2016",
-        "description": "The number of returns filed and processed during the tax year regardless of their return period.",
-        "identifier": "https://www.ird.govt.nz/about-us/archived-statistics/tax-returns/returns-filed",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "company",
-            "filing",
-            "fringe benefit tax",
-            "goods and services tax",
-            "income tax",
-            "individuals",
-            "paye",
-            "trustestate"
-        ],
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Inland Revenue",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "landingPage": "https://www.ird.govt.nz/about-us/archived-statistics/tax-returns/returns-filed",
-        "accrualPeriodicity": "R/P1Y",
-        "theme": "Income Tax, Goods and Services Tax, Fringe Benefit Tax, PAYE",
-        "temporal": "03-2007/03-2017",
-        "distribution": [
-            {
-                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Tax-Returns/Returns-filed-2007-to-2016-csv.csv",
-                "format": "CSV",
-                "title": "Data in CSV format"
-            },
-            {
-                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Tax-Returns/Returns-filed-2007-to-2016-xls.xlsx",
-                "format": "XLSX",
-                "title": "Data in EXCEL format"
-            }
-        ]
-    },
-    {
         "title": "Revenue collected",
         "description": "Revenue collected on an acruals basis between 2008 and 2017 by Inland Revenue.",
         "identifier": "https://www.ird.govt.nz/about-us/archived-statistics/revenue-collected",
@@ -1978,6 +1858,314 @@
         ]
     },
     {
+        "title": "Student Loan Scheme 2006 Data Tables",
+        "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
+        "identifier": "https://www.educationcounts.govt.nz/publications/80898/2555/5651",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "individuals",
+            "payments and refunds",
+            "student loans"
+        ],
+        "publisher": {
+            "name": "Inland Revenue"
+        },
+        "contactPoint": {
+            "fn": "Inland Revenue",
+            "hasEmail": "open.data2@ird.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/5651",
+        "accrualPeriodicity": "R/P1Y",
+        "temporal": "01-2000/12-2006",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/file/0009/7398/Data-Student-Loan-Scheme-Annual-Report-2006.xls",
+                "format": "XLS",
+                "title": "Data in EXCEL format"
+            }
+        ]
+    },
+    {
+        "title": "Student Loan Scheme 2007 Data Tables",
+        "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
+        "identifier": "https://www.educationcounts.govt.nz/publications/80898/2555/17229",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "individuals",
+            "payments and refunds",
+            "student loans"
+        ],
+        "publisher": {
+            "name": "Inland Revenue"
+        },
+        "contactPoint": {
+            "fn": "Inland Revenue",
+            "hasEmail": "open.data2@ird.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/17229",
+        "accrualPeriodicity": "R/P1Y",
+        "temporal": "01-1993/12-2007",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0017/17243/Data-Student-Loan-Scheme-Annual-Report-2007.xls",
+                "format": "XLS",
+                "title": "Data in EXCEL format"
+            }
+        ]
+    },
+    {
+        "title": "Student Loan Scheme 2008 Data Tables",
+        "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
+        "identifier": "https://www.educationcounts.govt.nz/publications/80898/2555/33499/2",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "individuals",
+            "payments and refunds",
+            "student loans"
+        ],
+        "publisher": {
+            "name": "Inland Revenue"
+        },
+        "contactPoint": {
+            "fn": "Inland Revenue",
+            "hasEmail": "open.data2@ird.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/33499/2",
+        "accrualPeriodicity": "R/P1Y",
+        "temporal": "01-1994/12-2008",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0006/43377/Data-Student-Loan-Scheme-Annual-Report-2008.xls",
+                "format": "XLS",
+                "title": "Data in EXCEL format"
+            }
+        ]
+    },
+    {
+        "title": "Student Loan Scheme 2009 Data Tables",
+        "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
+        "identifier": "https://www.educationcounts.govt.nz/publications/80898/2555/58406/2",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "individuals",
+            "payments and refunds",
+            "student loans"
+        ],
+        "publisher": {
+            "name": "Inland Revenue"
+        },
+        "contactPoint": {
+            "fn": "Inland Revenue",
+            "hasEmail": "open.data2@ird.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/58406/2",
+        "accrualPeriodicity": "R/P1Y",
+        "temporal": "01-2000/12-2009",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0003/63156/SLS-DataTables2009-30112009.xls",
+                "format": "XLS",
+                "title": "Data in EXCEL format"
+            }
+        ]
+    },
+    {
+        "title": "Student Loan Scheme 2011 Data Tables",
+        "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
+        "identifier": "https://www.educationcounts.govt.nz/publications/80898/2555/student-loan-scheme-annual-report-2011",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "individuals",
+            "payments and refunds",
+            "student loans"
+        ],
+        "publisher": {
+            "name": "Inland Revenue"
+        },
+        "contactPoint": {
+            "fn": "Inland Revenue",
+            "hasEmail": "open.data2@ird.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/student-loan-scheme-annual-report-2011",
+        "accrualPeriodicity": "R/P1Y",
+        "temporal": "01-2000/12-2011",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0017/105551/Student-Loan-Scheme-Data-2011.xls",
+                "format": "XLS",
+                "title": "Data in EXCEL format"
+            }
+        ]
+    },
+    {
+        "title": "Student Loan Scheme 2012 Data Tables",
+        "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
+        "identifier": "https://www.educationcounts.govt.nz/publications/80898/2555/114630",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "individuals",
+            "payments and refunds",
+            "student loans"
+        ],
+        "publisher": {
+            "name": "Inland Revenue"
+        },
+        "contactPoint": {
+            "fn": "Inland Revenue",
+            "hasEmail": "open.data2@ird.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/114630",
+        "accrualPeriodicity": "R/P1Y",
+        "temporal": "01-2000/12-2012",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0003/114636/Data-Student-Loan-Scheme-Annual-Report-2012.xls",
+                "format": "XLS",
+                "title": "Student Loan Scheme 2012 Data Tables"
+            }
+        ]
+    },
+    {
+        "title": "Student Loan Scheme 2013 Data Tables",
+        "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
+        "identifier": "https://www.educationcounts.govt.nz/publications/80898/2555/student-loan-scheme-annual-report-2013",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "individuals",
+            "payments and refunds",
+            "student loans"
+        ],
+        "publisher": {
+            "name": "Inland Revenue"
+        },
+        "contactPoint": {
+            "fn": "Inland Revenue",
+            "hasEmail": "open.data2@ird.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/student-loan-scheme-annual-report-2013",
+        "accrualPeriodicity": "R/P1Y",
+        "temporal": "01-2000/12-2013",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0003/144570/2013-Student-Loan-Scheme-Data.xlsx",
+                "format": "XLS",
+                "title": "Data in EXCEL format"
+            }
+        ]
+    },
+    {
+        "title": "Student Loan Scheme 2014 Data Tables",
+        "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
+        "identifier": "https://www.educationcounts.govt.nz/publications/80898/2555/student-loan-scheme-annual-report-2014",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "individuals",
+            "payments and refunds",
+            "student loans"
+        ],
+        "publisher": {
+            "name": "Inland Revenue"
+        },
+        "contactPoint": {
+            "fn": "Inland Revenue",
+            "hasEmail": "open.data2@ird.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/student-loan-scheme-annual-report-2014",
+        "accrualPeriodicity": "R/P1Y",
+        "temporal": "01-2000/12-2014",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0005/164948/2014-Student-Loan-Scheme-Annual-Report.xlsx",
+                "format": "XLS",
+                "title": "Data in EXCEL format"
+            }
+        ]
+    },
+    {
+        "title": "Student Loan Scheme 2015 Data Tables",
+        "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
+        "identifier": "https://www.educationcounts.govt.nz/publications/80898/2555/student-loan-scheme-annual-report-2015",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "individuals",
+            "payments and refunds",
+            "student loans"
+        ],
+        "publisher": {
+            "name": "Inland Revenue"
+        },
+        "contactPoint": {
+            "fn": "Inland Revenue",
+            "hasEmail": "open.data2@ird.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/student-loan-scheme-annual-report-2015",
+        "accrualPeriodicity": "R/P1Y",
+        "temporal": "01-2000/12-2015",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0013/170230/2015-Data-tables.xlsx",
+                "format": "XLS",
+                "title": "Data in EXCEL format"
+            }
+        ]
+    },
+    {
+        "title": "Student Loan Scheme 2016 Data Tables",
+        "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
+        "identifier": "https://www.educationcounts.govt.nz/publications/80898/2555/student-loan-scheme-annual-report-2016",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "individuals",
+            "payments and refunds",
+            "student loans"
+        ],
+        "publisher": {
+            "name": "Inland Revenue"
+        },
+        "contactPoint": {
+            "fn": "Inland Revenue",
+            "hasEmail": "open.data2@ird.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/student-loan-scheme-annual-report-2016",
+        "accrualPeriodicity": "R/P1Y",
+        "temporal": "01-2000/12-2016",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0017/180710/Student-Loan-Scheme-2016-Web-tables-141216.xlsx",
+                "format": "XLS",
+                "title": "Data in EXCEL format"
+            }
+        ]
+    },
+    {
+        "title": "Student Loan Scheme 2017 Data Tables",
+        "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
+        "identifier": "https://www.educationcounts.govt.nz/publications/series/student_loan_scheme_annual_reports/student-loan-scheme-annual-report-2017",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "individuals",
+            "payments and refunds",
+            "student loans"
+        ],
+        "publisher": {
+            "name": "Inland Revenue"
+        },
+        "contactPoint": {
+            "fn": "Inland Revenue",
+            "hasEmail": "open.data2@ird.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/publications/series/student_loan_scheme_annual_reports/student-loan-scheme-annual-report-2017",
+        "accrualPeriodicity": "R/P1Y",
+        "temporal": "01-2000/12-2017",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/pdf_file/0006/183705/Student-Loan-Annual-Report-2016-17.pdf",
+                "format": "PDF",
+                "title": "Student Loan Scheme 2017 Full Report"
+            }
+        ]
+    },
+    {
         "title": "Student Loan Scheme 2018 Data Tables",
         "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
         "identifier": "https://www.educationcounts.govt.nz/publications/series/student_loan_scheme_annual_reports/student-loan-scheme-annual-report-2018",
@@ -2000,6 +2188,34 @@
         "distribution": [
             {
                 "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0007/192886/Data-Tables-2018.xlsx",
+                "format": "XLSX",
+                "title": "Data in EXCEL format"
+            }
+        ]
+    },
+    {
+        "title": "Student Loan Scheme 2019 Data Tables",
+        "description": "Statistics relating to the Student Loan Scheme, including loan uptake, amount borrowed, loan balance, and repayment.",
+        "identifier": "https://www.educationcounts.govt.nz/publications/80898/2555/student-loan-scheme-annual-report-2019",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "individuals",
+            "payments and refunds",
+            "student loans"
+        ],
+        "publisher": {
+            "name": "Inland Revenue"
+        },
+        "contactPoint": {
+            "fn": "Inland Revenue",
+            "hasEmail": "open.data2@ird.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/publications/80898/2555/student-loan-scheme-annual-report-2019",
+        "accrualPeriodicity": "R/P1Y",
+        "temporal": "01-2000/12-2019",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0006/196665/SLS_-Data-Tables-2019.xlsx",
                 "format": "XLSX",
                 "title": "Data in EXCEL format"
             }
@@ -2193,49 +2409,6 @@
                 "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Social-policy/Working-for-Families-Tax-Credits-2001-to-2018/wff-number-of-families.xlsx",
                 "format": "XLS",
                 "title": "Data in EXCEL format"
-            }
-        ]
-    },
-    {
-        "title": "Net GST by turnover band",
-        "description": "Net total GST by turnover band. The following GST data is based on information from GST returns and is different from the accrual data presented in the \"Tax revenue\" section.",
-        "identifier": "https://www.ird.govt.nz/about-us/tax-statistics/revenue-refunds/net-gst-turnover-band",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "clubsociety",
-            "company",
-            "diplomatic mission",
-            "goods  services tax",
-            "government department",
-            "individuals",
-            "maori authority",
-            "partnership",
-            "payments and refunds",
-            "super fund",
-            "trustestate",
-            "unit trust"
-        ],
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Inland Revenue",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "landingPage": "https://www.ird.govt.nz/about-us/tax-statistics/revenue-refunds/net-gst-turnover-band",
-        "accrualPeriodicity": "R/P1Y",
-        "theme": "Goods & Services Tax",
-        "temporal": "03-2007/03-2019",
-        "distribution": [
-            {
-                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Revenue-and-refunds/Net-GST-by-turnover-band/net-gst-band-19.xlsx",
-                "format": "CSV",
-                "title": "Net GST by turnover band (CSV)"
-            },
-            {
-                "downloadURL": "https://www.ird.govt.nz/-/media/Files/Statistics/Revenue-and-refunds/Net-GST-by-turnover-band/net-gst-band-19.xlsx",
-                "format": "XLSX",
-                "title": "Net GST by turnover band (XLSX)"
             }
         ]
     }
