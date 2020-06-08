@@ -1,6 +1,6 @@
 {
       "@context": "https://www.data.govt.nz/catalog.jsonld",
-      "@id": "https://www.ird.govt.nz/data.json",
+      "@id": "https://www.ird.govt.nz//data.json",
       "@type": "dcat:Catalog",
       "conformsTo": "https://www.data.govt.nz/toolkit/schema",
       "dataset":[
@@ -529,65 +529,22 @@
         "temporal": "07-2015/06-2019",
         "distribution": [
             {
-                "downloadURL": "https://www.classic.ird.govt.nz/resources/b/3/b354daad-0283-44b7-9684-89a8b79e902f/commissioners-expenses-july-2015-June-2016.xlsx",
+                "downloadURL": "https://www.ird.govt.nz/-/media/project/ir/documents/about-us/publications/annual-and-corporate-reports/commissioners-expenses/commissioners-expenses-july-2015-june-2016.xlsx",
                 "format": "XLSX",
                 "title": "Expenses July 2015 to June 2016"
             },
             {
-                "downloadURL": "https://www.classic.ird.govt.nz/resources/2/4/241989ca-bd8f-47ad-8c1c-35c4ebf8b481/commissioners-expenses-july-2016-june-2017.xlsx",
+                "downloadURL": "https://www.ird.govt.nz/-/media/project/ir/documents/about-us/publications/annual-and-corporate-reports/commissioners-expenses/commissioners-expenses-july-2016-june-2017.xlsx",
                 "format": "XLSX",
                 "title": "Expenses July 2016 to June 2017"
             },
             {
-                "downloadURL": "https://www.classic.ird.govt.nz/resources/d/c/dc27fd38-d7e3-4de1-b54a-2e29fcada02c/commissioners-expenses-july-2017-june-2018.xlsx",
+                "downloadURL": "https://www.ird.govt.nz/-/media/project/ir/documents/about-us/publications/annual-and-corporate-reports/commissioners-expenses/commissioners-expenses-july-2017-june-2018.xlsx",
                 "format": "XLSX",
                 "title": "Expenses July 2017 to June 2018"
             },
             {
-                "downloadURL": "https://www.classic.ird.govt.nz/resources/b/7/b7ddc35f-0b64-46d7-9169-20034b2df91c/commissioners-expenses-2019-FINAL.xlsx",
-                "format": "XLSX",
-                "title": "Expenses July 2018 to June 2019"
-            }
-        ]
-    },
-    {
-        "title": "Inland Revenue Commissioner's Expenses",
-        "description": "Total expenses attributed to Inland Revenue's commissioner",
-        "identifier": "https://www.ird.govt.nz/about-us/publications/annual-corporate-reports/commissioners-expenses",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "keyword": [
-            "corporate data",
-            "financial reports and measures"
-        ],
-        "publisher": {
-            "name": "Inland Revenue"
-        },
-        "contactPoint": {
-            "fn": "Inland Revenue",
-            "hasEmail": "open.data2@ird.govt.nz"
-        },
-        "landingPage": "https://www.ird.govt.nz/about-us/publications/annual-corporate-reports/commissioners-expenses",
-        "accrualPeriodicity": "R/P1Y",
-        "theme": "Corporate Data, Financial reports and measures",
-        "temporal": "07-2015/06-2019",
-        "distribution": [
-            {
-                "downloadURL": "https://www.classic.ird.govt.nz/resources/b/3/b354daad-0283-44b7-9684-89a8b79e902f/commissioners-expenses-july-2015-June-2016.xlsx",
-                "format": "XLSX",
-                "title": "Expenses July 2015 to June 2016"
-            },
-            {
-                "downloadURL": "https://www.classic.ird.govt.nz/resources/2/4/241989ca-bd8f-47ad-8c1c-35c4ebf8b481/commissioners-expenses-july-2016-june-2017.xlsx",
-                "format": "XLSX",
-                "title": "Expenses July 2016 to June 2017"
-            },
-            {
-                "downloadURL": "https://www.classic.ird.govt.nz/resources/d/c/dc27fd38-d7e3-4de1-b54a-2e29fcada02c/commissioners-expenses-july-2017-june-2018.xlsx",
-                "format": "XLSX",
-                "title": "Expenses July 2017 to June 2018"
-            },
-            {
-                "downloadURL": "https://www.classic.ird.govt.nz/resources/b/7/b7ddc35f-0b64-46d7-9169-20034b2df91c/commissioners-expenses-2019-FINAL.xlsx",
+                "downloadURL": "https://www.ird.govt.nz/-/media/project/ir/documents/about-us/publications/annual-and-corporate-reports/commissioners-expenses/commissioners-expenses-2019-final.xlsx",
                 "format": "XLSX",
                 "title": "Expenses July 2018 to June 2019"
             }
